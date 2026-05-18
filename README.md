@@ -20,11 +20,9 @@ lore/
   09_plot.md             (pending)
   10_glossary.md         (pending)
   ideas.md               Working notes
-
-images/
-  characters/    Character portraits
-  hsr/           Honkai Star Rail style portraits
 ```
+
+**Note on visual art:** No character art, concept art, or visual references are committed to this repo yet. Art direction is intentionally open — the lore should stand on its own and not be pre-anchored to any specific style.
 
 ## Status
 
