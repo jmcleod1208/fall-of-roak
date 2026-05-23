@@ -146,7 +146,7 @@
 
 **Appearance.** A scarecrow that should not be moving. Sackcloth head with stitched mouth and button eyes. Body of bound straw and broomhandle. One in three has a real human jawbone sewn into its mouth.
 
-**Origin.** Field-wards put up to guard hidden Mother-shrines in Greenfields hamlets. The bind itself is whispered by **a wandering vessel of Noctheris** — a grown child of one of the Mothers, carrying her gift through the countryside — who passes through, speaks the rite over the strawman, and moves on. The wards keep guarding their assigned ground long after the vessel has left and long after the shrine has been abandoned.
+**Origin.** Field-wards put up to guard hidden Mother-shrines in Greenfields hamlets. The bind itself is whispered by **a wandering vessel of Noctheris** — an adult corrupted servant of the host, one of the rite-workers who sold themselves to her later in life — who passes through, speaks the rite over the strawman, and moves on. The wards keep guarding their assigned ground long after the vessel has left and long after the shrine has been abandoned.
 
 **Behavior.** Stands utterly still in a field at noon. Walks at dusk. Will not leave the boundary of its assigned field. Will not ignore intruders. Slow but tireless.
 
@@ -178,7 +178,7 @@
 
 **Appearance.** A waist-high mass of black-violet ooze pooled at the bottom of an abandoned well or cistern. Smells of rot and old iron. Bubbles softly. Has no face, but seems to *consider* a person looking down at it before it moves.
 
-**Origin.** A water source contaminated by **a single Noctheris-rite performed at the well by one of her vessels** during the Spring chaos — a wandering Mother-child who stopped, spoke into the dark, and walked on. The sludge is what has grown there since. The residue of that one rite, slowly thickening over weeks, slowly becoming aware.
+**Origin.** A water source contaminated by **a single Noctheris-rite performed at the well by one of her vessels** during the Spring chaos — a wandering rite-worker, adult-bargained and bone-hollow, who stopped, spoke into the dark, and walked on. The sludge is what has grown there since. The residue of that one rite, slowly thickening over weeks, slowly becoming aware.
 
 **Behavior.** Stationary unless the well is approached. Will climb the well wall to attack. If destroyed, the well is reclaimable; if ignored, it spreads into the village's water supply and the whole hamlet gets sick.
 
@@ -206,7 +206,43 @@
 
 ---
 
-**Greenfields summary.** Twelve creatures. Mostly human-derived (brigands, hollowed farmers, husks, traitors), with the first hints of true supernatural threat (wraiths, husks, sludges) creeping in. Bestiary teaches loadout, positioning, AI toggles, terrain interaction (wells, fields, doorways), and rebuild-material farming. No dragons here — the Greenfields are too sunlit. Dragons are reserved for the Spires or the Eastern Wilds.
+### 13. Ser Kael Sunstrike — Lieutenant I  *(road past Greenwatch)*
+
+> *"Stand, then. Stand and learn what your kingdom became."*
+
+A capstone encounter on the eastern road, two days past Greenwatch. The party's first lieutenant kill. The man who once was the kingdom's finest blade, returned as Ro'ak's herald.
+
+**Appearance.** Tall, broad-shouldered, plate-armored in the old Crownhaven steel — but the steel is wrong now. The royal sun on his breastplate is scorched black around the rim. His sword-hand gauntlet is fused at the joints, as if it was put on once and never taken off. His face is the face the party knew from the throne-room frescoes in Hartwick chapel — calm, handsome, square-jawed — except his eyes are the deep violet of Noctheris's chosen, and they do not blink as often as a man's eyes should.
+
+**Origin.** Ser Kael was **Lord Commander of the Crownhaven Royal Guard** the night the city fell. He fought to the throne-room door, was the last of the king's bodyguard to fall, and died on the marble with the king's blood already cooling beside him. **Noctheris caught him at the threshold of death** the way she caught the wraith-mothers — pulled him sideways, kept him from the Creator, set him aside. Then she gave him to Ro'ak as a gift. Ro'ak named him **Lieutenant of the First Sword**, gave him back his own blade (re-forged in the dark beneath Dreadvik), and sent him west to bleed the road before the host reached it.
+
+He has been hunting the party since Hartwick. The elves at Greenwatch warned of him by name. The party will have heard rumors of him on the Crown Road — a knight in scorched Crownhaven steel who kills travelers in single combat and leaves the bodies arranged in old courtly forms.
+
+**Personal connection.** Kael trained Vallen's father in the Crownhaven yards when Vallen was a boy. Vallen will recognize the stance before he recognizes the face. Kael remembers Vallen too, and uses it. *"Boy. You held the wooden blade wrong then. You still hold it wrong."*
+
+**Combat flavor — duelist, single-blade, the cleanest kill in the game.**
+- **Single longsword**, Crownhaven-forged, re-tempered black at the edge.
+- **Tight, precise footwork.** No wasted motion. He does not stagger from chip damage — he reads it and counters.
+- **Parry-riposte cadence** — the fight wants the party to learn to time their windows. He is the game's teacher of the parry timing they will need against Seraphiel and Vorthak later.
+- **Two phases.** Phase one is pure swordcraft, no magic — he insults the party between exchanges and tries to draw Vallen into a one-on-one duel. Phase two opens when he is below half: violet light bleeds out of the joints of his armor, his sword catches fire (the black flame of Noctheris), and he stops speaking. The man is gone; what Noctheris set aside takes over.
+
+**Abilities.** **Riposte** (counters a missed melee swing for heavy damage). **Sun-Cut** (a wide horizontal slash that ignites in phase two, leaving a line of black flame on the ground). **Commander's Voice** (phase one only — once per fight, he gives a battlefield command that the party briefly obeys: a forced "Hold" or "Fall back" that interrupts an action. Vallen resists it; the others may not). **Honor-Stance** (phase one — if Vallen accepts a one-on-one challenge, the rest of the party is locked out of the fight for thirty seconds; if Vallen wins the exchange, Kael takes a heavy wound; if he loses, Vallen takes one).
+
+**Weaknesses.** Phase one: **patience and pattern-reading**; he is beatable by good play, not by burst. Phase two: **faith magic** — Van's sever-the-thread works on him the way it works on the pilgrim husks, because what is animating him in phase two is the same kind of Noctheris-tether. A clean sever ends phase two early.
+
+**Encounter notes.** The party's **first lieutenant kill.** Set on a stretch of the Crown Road where four travelers' bodies are already arranged in formal kneel — Kael's calling card. He is standing at the head of the road, waiting. **He does not ambush. He announces.**
+
+**Drops.**
+- **Sunstrike Longsword** — Crownhaven-forged, re-tempered black. High-tier weapon for Vallen. Carries a small Noctheris-taint that the party can have cleansed at the Cathedral of the Three later (a sequence step that matters when the Red Chalice's people inspect the party's gear).
+- **Lord Commander's Sigil** — the Crownhaven royal sun, scorched. **Turn-in item** at the half-collapsed chapel east of Crownhaven (Ser Eadric of the Cathedral Guard will know what it is). Establishes the Cathedral questline thread.
+- **A folded oath-scroll** — Kael's original commission, signed by the last king of Crownhaven. Lore item. Vallen keeps it.
+- **Black-flame ember** — minor crafting reagent. Used at the Cathedral forge later to cleanse the Sunstrike's taint, if the party chooses.
+
+**Lore note.** Kael is the **first of Ro'ak's four lieutenants the party kills.** He teaches the party what a lieutenant fight feels like — disciplined, two-phased, dropping a named weapon and a turn-in item, ending a stretch of road. Seraphiel will be harder. Vorthak will be harder. Durgan will be hardest. **But Kael is where the party learns the shape of the work.**
+
+---
+
+**Greenfields summary.** Thirteen creatures. Mostly human-derived (brigands, hollowed farmers, husks, traitors), with the first hints of true supernatural threat (wraiths, husks, sludges) creeping in, and the capstone duel against Ser Kael Sunstrike — the party's first lieutenant kill. Bestiary teaches loadout, positioning, AI toggles, terrain interaction (wells, fields, doorways), rebuild-material farming, and the shape of a lieutenant fight. No dragons here — not because the Greenfields are unwelcoming to them, but because dragons are exceedingly rare on Halig and always have been. Most sleep in places no road reaches. The party will see one Creator-made dragon (Aetherion, deep in the Old Forest) and one Noctheris-made exception (Vorthak, on the Demesne moors). Both are events, not encounters of the kind that populate a region's wildlife.
 
 ---
 

@@ -198,6 +198,8 @@ This is also why Durgan is **warm, friendly, treats fights as puzzles.** He has 
 - **No resurrection is possible through Creator magic.** Period.
 - **Necromancy / raising the dead is the work of the Old Gods**, and what is raised is **not the person who died.** It is something wearing their shape that Noctheris has dragged back partly. **The Mothers themselves wield no magic** — they are ordinary women who have given their children to Noctheris, nothing more. When the dead walk near a Mother shrine, it is **Noctheris reaching through her vessels** (Ro'ak, Seraphiel, the chosen) and using the Mothers' offered grief as the price. The Mother provides the cost; the goddess does the work. **The party will encounter at least one of the raised.**
 
+**A note on vessels.** Noctheris's vessels are not all of one kind. **Ro'ak is unique** — the only Mother-given child to survive infancy and grow. Every other child the Mothers have offered her across the centuries was taken as a sacrifice and consumed; **there are no other grown Mother-children walking Halig.** The other vessels in her service — Seraphiel, the scattered Mother-cult witches, the wandering rite-workers who poison wells and bind strawmen — are **adult bargainers.** Grown men and women who, like Seraphiel, sold themselves to Noctheris later in life in exchange for power, beauty, long life, or a queen's crown. They can channel her gift; she can reach through them; they serve in Ro'ak's army. **But they were never her children.** That word belongs to Ro'ak alone.
+
 ---
 
 ## Part 9 — Languages

@@ -123,7 +123,7 @@ East of the Greenfields. Ancient woodland untouched by the axe for a thousand ye
   - **The Quartermaster's Hollow** — where the party can be re-equipped with elven gear: a finer bow for Runlan, herbs Calypsa cannot find in the Greenfields, light arrow-bundles.
   - **The Closed Path** — a footpath leading deeper into the forest, **guarded by two unsmiling sentinels.** It is not a question of malice. It is a question of law. *No.*
 - **Notable NPCs here:**
-  - **An elven ranger-captain** who receives the party (TBD — supporting NPC).
+  - **Captain Aerinith** — the elven ranger-captain who receives the party at the Hearth-Circle. Calm, careful, courteous in the old way. He is the senior officer at Greenwatch, the maker of the grove-tokens the party carries deeper into the forest, and the man who reads the Crown Road from the upper galleries each night without speaking. He has been at Greenwatch longer than any human kingdom now standing.
   - A young elven scout who admires Vallen's twin-blade style (TBD — supporting NPC).
 - **Hooks / Why the player goes here:**
   - **First major waypoint after Hartwick.** The elves give the party warning of what waits ahead — and confirm that Ser Kael Sunstrike is hunting them on the forest's eastern road.
@@ -131,7 +131,7 @@ East of the Greenfields. Ancient woodland untouched by the axe for a thousand ye
   - **Ser Kael's ambush happens on the road past Greenwatch**, after the party leaves the outpost.
 - **Secrets:**
   - The elves know more about Noctheris than they have told. They know the dwarves cracked her prison. They know **one dwarf stayed.** They have not said his name aloud in a thousand years.
-  - **Seraphiel Moonwhisper was once one of them** — a Council member. The captain at Greenwatch knew her. He does not speak of her. *Don't ask.*
+  - **Seraphiel Moonwhisper was once one of them** — a Council member. **Captain Aerinith knew her**, served under her in the old Council guard, loved her once in the quiet elven way that does not require speaking it. He does not speak of her now. *Don't ask.* If the party returns to Greenwatch after the Cradle carrying her circlet and the letter she left him, Aerinith will receive them, read the letter alone, and that night sing the funeral cadence for an Elenathir Council member that has not been sung in three hundred years. Greenwatch is quieter for a week.
 
 ---
 
