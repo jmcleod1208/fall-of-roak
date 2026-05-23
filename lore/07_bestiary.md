@@ -439,7 +439,63 @@ Seraphiel, after carving her Cradle near his glade, did not assault him directly
 
 ---
 
-**Old Forest summary.** Thirteen creatures. Heavy emphasis on fallen elves (a single faction, Ro'ak's army, with distinct classes — warden, bladesinger, thornsinger, acolyte), corrupted wildlife (wolves, boar, stag, hawthorn, husks, moss-wraiths), one tragic invented creature (the Briarchild), one allied recruitable faction (Greenwatch Rangers), and Aetherion — Region 2's capstone, a Creator-made native dragon driven to rage by Noctheris and Ro'ak working through Seraphiel. The region establishes terrain-shaper enemies, night-camp threats, the regrow mechanic, and the player's first non-human follower options. Friendly elves can be recruited; no parley is ever offered by the corrupted side. Seraphiel herself is not yet fought here — she is the Region 2 storyline antagonist, but her boss fight is staged elsewhere in the campaign.
+### 14. Seraphiel Moonwhisper, the Whispering Knife — Regional Capstone
+
+> *"You walked through my wood to find me. I have been waiting four hundred years for someone to make the walk worth it. Thank you for trying."*
+
+- **Type:** Fallen elf. Former Elenathir Council member. **Lieutenant II of Ro'ak's host.** The party fights her at **the Cradle** — the corrupted coronation-grove she carved out of the deep Old Forest. *Full character entry in `04_characters.md`.*
+- **Threat tier:** Heavy. Multi-phase lieutenant boss. **The true end of Region 2** — fought after Aetherion's fall.
+- **Habitat:** **The Cradle.** The center of the Heart Tree clearing, the split great-tree behind her, the violet-fissured bark casting wrong-light on her face. The clearing is bounded by the encircling wood; there is no retreat for either side.
+
+**Behavior.** Waits for the party at the Heart Tree, **standing at its base, hands folded, perfectly still, as if she had heard them coming for three days and dressed for the occasion.** A circle of her household — **six fallen elves** — stand in a loose half-ring behind her: two wardens in plate, two bladesingers in fighting-leathers, two thornsingers with hawthorn-staves. She does not move when the party enters the clearing. She speaks first. **The fight does not begin until the party makes it begin.**
+
+She is gracious. She is genuinely curious about them. She remembers Calypsa's name (if Calypsa is in the party) without being told it, and uses it. She knows the others by reputation. She compliments the Briarchild-kill, the Aetherion-mercy, the Greenwatch grove-tokens at the party's belts. *"Captain Aerinith made those, didn't he. The grain. He always was a careful hand. Tell him — if he asks — that I remembered him."* She is not stalling. She is *meeting them properly.* It is the courtesy of the swordmistress who knows this is her last duel.
+
+When the party signals the fight — by drawing, by speaking the wrong word, by simply stepping past the Heart Tree's outer roots — she **inclines her head once**, and the fallen elves move.
+
+**Combat — Phase 1 (The Household).** Six fallen elves engage the party while Seraphiel watches from the Heart Tree, unmoving. **She does not fight in this phase.** Wardens push the front line; bladesingers move on the flanks; thornsingers stay back and lay corruption-AOE on the ground beneath the party's feet. Each of the six fights to the death. **She does not call replacements.** When the last of her household falls, she lowers her gaze for a long second, and then she steps forward.
+
+**Combat — Phase 2 (The Whispering Knife).** She fights alone. **Twin corrupted blades, one short, one long** — the long was given to her by the Elenathir Council on her coronation; the short she forged herself after she fell. She fights in a deliberate paired-blade form that is older than any living swordsman has seen practiced, with cadence-shifts and pauses that throw off normal parry-timing. Genuinely fast. Genuinely silent — the only sound is the blades. She does not speak in this phase. **She is concentrating.**
+
+Signature moves:
+- **Whisper-Step** — brief stealth-blink (3–5 paces, behind a party member, single strike). Limited per phase.
+- **Long-and-Short** — opens with the long blade, follows with the short on the same beat. Reads as one attack, lands as two.
+- **Cadence Break** — a sudden full pause in the middle of a combo. Punishes parry-spam. The party that doesn't notice the pause eats the next two strikes.
+
+The Heart Tree behind her **glows faintly with each of her wounds.** Damage taken comes back slowly over time. **The party can damage the Heart Tree directly to suppress this** — a meta-combat option introduced in the Briarchild fight (#12) and the Hollow Hawthorn fight (#10) returns here. Damaging the tree is slow and exposes the party member doing it; ignoring the tree means a longer Phase 2.
+
+**Combat — Phase 3 (The Coronation).** At one-third health she **steps backward into the Heart Tree.** The split bark closes around her and reopens with her inside it — not transformed, but **crowned.** The tree's fissures match her body's vein-pattern. She speaks again, finally, from inside the tree:
+
+*"This was where they put the circlet on my head. Four hundred years ago. The Council and the moon and the old captain who taught me to draw. I have stood in this place before, knowing it was the most important night of my life. I am glad to stand in it again."*
+
+In Phase 3 the **Heart Tree fights with her.** Branches strike at the party from above; roots erupt under their feet; the corruption-glow becomes a damaging field. **She herself becomes faster and less precise** — Noctheris is reaching through her to drive her to a final rage, the same way Aetherion was driven. *She is not as gracious anymore.* She still does not gloat. She simply works.
+
+The Heart Tree's HP is shared with her in Phase 3. **The fight ends when either is broken.** Breaking the tree is faster but more dangerous (Phase 3 mechanics escalate as the tree dies). Breaking her directly is slower but the field calms with each of her wounds.
+
+**Death.** When she falls, **she falls forward, out of the Heart Tree, onto her knees in the grass of the clearing.** The corruption-violet drains from her eyes first. She is fully herself for the last few seconds — the woman the Council crowned, four hundred years ago, before any of this.
+
+*"Calypsa."* (Or: *"Vallen."* Or: *"Runlan."* Or: *"Vander."* Whoever struck the killing blow. She uses their right name and only their right name.) *"It is good. It is finished. The Lady whispered that this would come. I did not believe her. She was right, as she is always right. Tell the elves — tell Aerinith — the woman who walked out of Elenathir did not walk back in. I did not bring her with me. I lost her on the road and I never went back to find her. Tell them I am sorry. Tell them not to look for me here."*
+
+Then, more quietly:
+
+*"Burn the tree. Burn all of it. I should never have planted this."*
+
+She dies with that. **The Heart Tree, if not yet broken in combat, begins to die on its own the moment she does.** The party can either finish it (the proper rite, per her last words — the elves of Greenwatch will know what to do with the wood) or leave it to rot at its own speed. Burning it grants **the Quiet of the Cradle** passive: significant corruption resistance for the journey east through the Demesne Moors.
+
+**Drops.**
+- **Moonwhisper, the Long Blade** — her Council coronation sword, four hundred years old, masterwork elven steel. Cleansable at Greenwatch (the captain there will weep when he sees it; he will not keep it). Becomes a top-tier longblade for any sword-class hero.
+- **The Short Blade** — the one she forged after she fell. Cannot be fully cleansed. Carries a permanent minor corruption-taint, with a permanent minor power bonus. **A choice item.** Some parties will keep it. Some will not.
+- **Seraphiel's Circlet** — the silver coronation circlet, recovered from beneath her hair when she falls. **Turn-in item for Captain Aerinith at Greenwatch.** Completes the "Whispering Knife" questline. Aerinith buries it under the right tree.
+- **A folded letter**, addressed to no one, sealed with the Council's old wax. **It is to Aerinith.** It is short. It says she is sorry. The party can read it; Aerinith can read it; either way it is the same letter.
+- **The Whisper-Trophy** — unique cosmetic banner item commemorating Seraphiel's fall. *(Kael's drop in Region 1 is the first-lieutenant banner.)*
+
+**Lore note.** Seraphiel is **the second of Ro'ak's four lieutenants the party kills** — Ser Kael Sunstrike falls first, on the road past Greenwatch. She is the **knife-mirror** of Ro'ak's love for Noctheris — same devotion, smaller scale, slower decay. She has been corrupted for centuries; she was a Council member when she fell, and the slow rot of her gift across the Old Forest is hers. **Her death does not save the Old Forest.** The corruption she planted is generational now — the Hookback Roamers in Region 3 are downstream of it, and so are half the moor's horrors. **But it stops her from planting more.** Aerinith, at Greenwatch, will accept the circlet, read the letter, and — quietly — sing the old elven funeral cadence for her, the one that has not been sung for an Elenathir Council member in three hundred years. **Greenwatch is quieter for a week after that.** The Old Forest, slowly, begins to feel less afraid.
+
+**Sequel hook.** The short blade. The party that keeps it has a taint they will not yet recognize as a taint. **The Red Chalice's people will notice it.** That is a problem for later.
+
+---
+
+**Old Forest summary.** Fourteen creatures. Heavy emphasis on fallen elves (a single faction, Ro'ak's army, with distinct classes — warden, bladesinger, thornsinger, acolyte), corrupted wildlife (wolves, boar, stag, hawthorn, husks, moss-wraiths), one tragic invented creature (the Briarchild), one allied recruitable faction (Greenwatch Rangers), Aetherion (Creator-made native dragon driven to rage by Noctheris and Ro'ak working through Seraphiel), and **Seraphiel Moonwhisper herself at the Cradle — Lieutenant II, second of Ro'ak's four to die.** The region establishes terrain-shaper enemies, night-camp threats, the regrow mechanic, the player's first non-human follower options, and the campaign's first lieutenant boss after Kael. Friendly elves can be recruited; no parley is ever offered by the corrupted side.
 
 ---
 
