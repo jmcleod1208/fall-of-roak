@@ -482,7 +482,7 @@ This is, in part, why he can never be saved. The corruption is not just politica
 
 - **Distant antagonist for most of the game.** The party hears of him constantly — from refugees, from elven scouts, from corrupted lieutenants — but does not see him until late.
 - **One possible early glimpse:** Mid-game, perhaps in the Demesne, the party may witness him from a distance — a figure on a ridge, the host parting around him, the staff glowing in the mist. They do not meet. He does not see them. **But the player does, and remembers.**
-- **The final confrontation:** At the top of the fortress, above the cracked prison of Noctheris herself. He is the last gate. **And he is not the final boss** — Noctheris is. Ro'ak is the door. Killing him is necessary, but killing him does not save the world. The Wanting Mother still waits beneath.
+- **The final confrontation:** **Ro'ak's High Hall**, at the summit of the Black Spires — set directly above **Mother's Hearth**, Noctheris's cracked prison-chamber below. He is the last gate. **And he is not the final boss** — Noctheris is. Ro'ak is the door. Killing him is necessary, but killing him does not save the world. **When he falls, the Cinder-Hearth dies, the floor opens, and Noctheris pulls his body down into her prison.** The party can follow, or run. The Wanting Mother still waits beneath.
 
 ---
 

@@ -79,7 +79,7 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | `02_history.md` | Done | The Making → the Hollowing → the Founding → present (Year 500 AC). |
 | `03_factions.md` | Done | 8 factions: House Valerian (fallen), the Crown remnants, Elenathir, Ro'ak's Host, the Mothers, etc. |
 | `04_characters.md` | Done | 4 heroes, Ro'ak, Noctheris, the four lieutenants, Aetherion. |
-| `05_locations.md` | Done | 11 places + map summary table. Includes Captain Aerinith at Greenwatch and Ser Eadric at the Cathedral chapel east of Crownhaven. |
+| `05_locations.md` | Done | 10 places + map summary table. Includes Captain Aerinith at Greenwatch and Ser Eadric at the Cathedral chapel east of Crownhaven. Mother's Hearth is now the prison of Noctheris (Region 5 final battle); Ro'ak's High Hall is the throne hall at the Spires summit (Region 4 capstone). |
 | `06_systems.md` | Done | Magic, faith, corruption, vessels, languages. Vessel-distinction lock is here. |
 | `07_bestiary.md` | Regions 1–3 done. Regions 4–5 pending. | 40 creatures across 3 regions, all four lieutenant fights + one Creator-native dragon (Aetherion) + one Noctheris-made dragon (Vorthak). |
 | `08_items_artifacts.md` | **STUB — template only.** | To consolidate scattered drops: Sunstrike Longsword, Lord Commander's Sigil, Moonwhisper Long/Short Blades, Moonwhisper Circlet, Whisper-Trophy, Aetherion's throat-scale, Stone Blessings, Crown Road Wraith's letter for Runlan, soul-glass shards, black-flame ember, sealed letter to Aerinith, and others. |
@@ -95,18 +95,16 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | 1 | The Greenfields | 13 (incl. Ser Kael capstone) | Done |
 | 2 | The Old Forest | 14 (incl. Aetherion #13 + Seraphiel #14) | Done |
 | 3 | The Demesne Moors | 13 (incl. Vorthak #13 multi-encounter) | Done |
-| 4 | The Black Spires & Mother's Fjord | Pending — Durgan capstone, design questions ready | Next |
-| 5 | The Eastern Wilds / Wastes | Pending — identity unresolved | Open question |
+| 4 | The Black Spires & Mother's Fjord | Durgan at the Cinderforge Gate (mid-region), Ro'ak at his High Hall (capstone). Pending. | Next |
+| 5 | Mother's Hearth (Prison of Noctheris) | Descent through Hollowing-broken depths beneath the Spires. Noctheris herself as capstone. Pending. | After Region 4 |
 
-### Open structural question for Region 5
+### Endgame structure (locked)
 
-Per the locations table, the Mother's Hearth (Ro'ak's throne hall, site of the final battle) sits at the **summit of the Black Spires** — so Region 5 currently has an identity problem. The user must decide:
-
-- **Option A.** Region 5 IS the final-battle region — Mother's Hearth + the descent to the Cracked Prison vision. "Eastern Wilds / Wastes" becomes a misnomer to be renamed.
-- **Option B.** Region 5 is a genuine post-Spires zone in the east, sequel-seeded; the Mother's Hearth fight is folded into the end of Region 4 or treated as its own "Final Region" outside the 5-region structure.
-- **Option C.** Something else.
-
-Settle this before drafting Region 4's bestiary, since it affects what creatures and capstones belong where.
+- **Region 4 capstone = Ro'ak**, in his High Hall at the summit of the Black Spires.
+- **When Ro'ak dies**, the Cinder-Hearth in his hall dies, the floor cracks open, and Noctheris pulls his body down into her prison-chamber.
+- **Region 5 begins** with the descent into that chamber — a vertical journey through Hollowing-broken dwarven works and sleeping halls.
+- **Region 5 capstone = Noctheris**, in Mother's Hearth, in her own prison.
+- The four other Old Gods (Visstheri, Aqueloth, Drakhalion, Morhaem) watch the Noctheris fight from behind the cracks. They do not act. They take notes. Sequel hook.
 
 ---
 

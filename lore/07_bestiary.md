@@ -730,9 +730,9 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 ---
 
-## Region 5 — The Eastern Wilds / Wastes
+## Region 5 — Mother's Hearth (Prison of Noctheris)
 
-*(Pending.)*
+*(Pending. Final region. The descent into Noctheris's prison-chamber after Ro'ak falls in his High Hall. Vertical journey through Hollowing-broken depths. Capstone: Noctheris herself, in several phases.)*
 
 ---
 
