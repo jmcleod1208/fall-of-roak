@@ -313,7 +313,7 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
   - **When Ro'ak dies, the Cinder-Hearth flares once and dies, and the floor cracks open.** Noctheris pulls his body down. The party can follow, or run.
 - **Secrets:**
   - The **green-violet flame** of the Cinder-Hearth is fed by something. Mother offerings. Children. Bones beneath the floor. The party may see what during the fight.
-  - **The Cinder-Hearth is Ro'ak's tether to Noctheris in this place.** Breaking the Cinder-Hearth during the fight weakens him — and tells her her vessel is dying. **She begins to wake.**
+  - **The Cinder-Hearth is Ro'ak's tether to Noctheris in this place.** When his strength fails halfway through the fight, the Cinder-Hearth dims with him — and Noctheris begins to wake. When he dies, the Cinder-Hearth dies.
   - **When Ro'ak falls, the floor opens. The only way forward is down.**
 
 ---

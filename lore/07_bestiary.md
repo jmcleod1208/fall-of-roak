@@ -726,7 +726,89 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 ## Region 4 — The Black Spires & Mother's Fjord
 
-*(Pending.)*
+*Eighteen creatures. The endgame approach — fjord foothills to Ro'ak's High Hall. Two boss fights in one region: Durgan at the Cinderforge Gate (mid-region), Ro'ak at the summit (capstone). The path is linear — no side branches. Winter 500 AC.*
+
+*Drafting in progress. Batch 1 below (entries 1–4, the approach / Mother's Fjord). Batches 2–4 pending.*
+
+---
+
+### 1. Frostbitten Thrall
+
+> *"They were villagers. They were ours."*
+
+**Appearance.** Once Dreadvik fjord-folk: thick wool, bone-pinned cloaks, fish-scale boots. Now pale-blue skin, frost-cracked lips, frozen flesh that did not finish thawing in death. Eyes wide and empty, the eyelids never closing because the fluid froze. Some still carry the gutting-knives they died with.
+
+**Origin.** When Ro'ak emerged in 499 AC, the Dreadvik chieftains' people fled the upper terraces. Many made it inland. **Many did not** — they died on the shore of the Mother's Fjord in the cold, in the chaos, in the brief slaughter Ro'ak's host visited on the fishing villages. They were not killed by Noctheris and they were not given to her. They simply died in the snow. The corruption beneath the cliff has reached them since, in the slow way it reaches the dead near her, and they have stood up again.
+
+**Behavior.** Wander the shoreline in small clumps, two and three together. Cling to the places they died — a fishing dock, a beached longboat, the threshold of a burned hut. Slow, but in tight enough numbers to surround. Do not flee.
+
+**Abilities.** **Frozen-Stiff Melee** (slow telegraphed strikes with whatever they died holding). **Brittle** passive (chip damage breaks chunks off them — a damaged thrall does less damage but does not slow down). **Cold-Blood** passive — touching one of them with bare skin does a small frost-tick of damage; matters most when grappled or surrounded.
+
+**Weaknesses.** Fire and concussive force. Vallen's shield-bash shatters them more cleanly than a sword cut. Calypsa's water magic does not work on them the way it does on living men — they are already frozen — but a cast of warm-water can briefly thaw one and stagger it for a clean kill.
+
+**Encounter notes.** First Region 4 enemy type. Sets the tone — these were people, last winter. The party may recognize fjord-village names burned into the side of a longboat.
+
+**Drops.** Brittle wool cloaks (low-tier crafting reagent). Bone-pinned amulets of the Old Sea-Light (a Dreadvik faith, now extinct — lore items, sellable to scholars at Crownhaven). Occasional small Mother-cult totems pressed into their hands postmortem by passing rite-workers.
+
+---
+
+### 2. Cliff-Howl
+
+> Calypsa, on a stretch of bare snow: *"There's no one here. Why does it sound like there is?"*
+
+**Appearance.** It cannot be seen — that is the point. **A long, low howl in the wind** that the party hears for the first half-minute they stand alone on the cliffs of the Mother's Fjord. After thirty seconds of hearing it, **a translucent shape begins to form** at one of the cliff's edges — a hand-thick coil of moving air, faintly violet, the size of a long man, hanging in the gust.
+
+**Origin.** A Noctheris-corruption that has settled into the fjord winds themselves. Not a creature in the traditional sense — a piece of her reach that found the wind and stuck. The fjord wind has always been loud here; the corruption has been listening to it for two hundred years and learned how to use its voice.
+
+**Behavior.** Drains warmth and stamina **passively, from a distance**, for as long as the party stays in its area without engaging. The longer they linger, the slower they move. **Cannot be hit while invisible.** Manifests after thirty seconds of close presence; once manifest, it can be struck.
+
+**Abilities.** **Voice-Drain** passive (invisible phase — slow stamina drain on every party member in a wide radius). **Voice-Strike** active (manifest phase — a single targeted gust that flings one party member toward the cliff edge and applies a heavy bleed). Calypsa's rare air-affinity attacks hit it harder than any other element.
+
+**Weaknesses.** **Movement.** The Cliff-Howl can only drain a party that has settled into one spot. Keeping the party moving up the cliff path prevents manifestation. Once it manifests, it has low health and is easy to kill — the challenge is forcing it to commit. Runlan's wind-cutting arrows and Van's pious chants disrupt it.
+
+**Encounter notes.** Teaches the party that not every Region 4 encounter is a stand-and-fight. The first time the party hears it, they will not know what it is. The second time, they will move.
+
+**Drops.** A single **Wind-Glass shard** — small chunk of clear matter that hums faintly. High-value crafting reagent for cloaks and bow-arrows that ignore wind. Sellable to scholars and wind-rangers.
+
+---
+
+### 3. Spire-Crow
+
+> Runlan: *"Big as a war-dog. And it saw me."*
+
+**Appearance.** A carrion bird the size of a war-dog, wingspan twice a man's height. Black feathers smeared with the green-violet of Noctheris-corruption. **A single violet eye** in the center of its skull, where two eyes should be. Beak the length of a forearm, hooked.
+
+**Origin.** The cliffs above the Black Spires have always had carrion birds. Ro'ak fed them, deliberately, for two hundred years. **He fed them the dead of the host he had killed for failing him.** They grew large. Then he gave them to Noctheris, one by one, in a small grim rite at the top of the southernmost spire. Now they are hers. They patrol his cliff for him.
+
+**Behavior.** Patrol-and-spot. Wheels overhead in long lazy circles. If it sees the party — and "see" is a precise word; the violet eye sees through illusions, through Calypsa's mist, through Runlan's ranger-cover — **it screams a single long cry and dives.** If it screams and is not killed within ten seconds, reinforcements come. A Black Patrol (entry 12) appears at the next bend, called by the scream.
+
+**Abilities.** **Spot** passive (sees through cover; the party cannot stealth past a Spire-Crow without killing it first). **Scream** active (calls reinforcements after ten seconds). **Dive-Beak** (heavy single-target piercing strike). **Wing-Buffet** (knocks a party member back, exposes flanks).
+
+**Weaknesses.** **Bow-range.** Runlan can drop one out of the sky before it sees the party if he sees it first. Once it has screamed, the party has ten seconds — kill it, and the patrol does not come. If it gets one cry off and survives, the patrol comes.
+
+**Encounter notes.** The first real stealth mechanic of the game that the party will actually use. They will learn quickly to look up.
+
+**Drops.** Black-feather cloak fragments (light-armor reagent — granting partial cold resistance, a small ranger upgrade for Runlan). Occasional violet eye (sellable to scholars at Crownhaven for a heavy price; nobody wants it for itself).
+
+---
+
+### 4. Iron-Frost Husk
+
+> Van, quietly: *"She gets her dead from the road. Always the road."*
+
+**Appearance.** Region 4's pilgrim. **A man or woman frozen in mid-step** on the road north — pilgrim staff still in their grip, scripture-bundle still tied at their hip — eyes open, lips cracked. The frost has not let them rot. The corruption beneath the cliff has reached them through the soil. They walk.
+
+**Origin.** The same kind of creature as the Region 1 Pilgrim Husk — a faithful traveler caught in mid-pilgrimage, who died on the road and was raised partly by Noctheris reaching through the cracked prison beneath. **The difference is the cold.** These pilgrims died in the deep north, on the road through Dreadvik's foothills, in winter. The cold preserved them. The raising was easier. There are more of them.
+
+**Behavior.** Walk the road in slow files of three or four, single file, in the postures they died in. Do not deviate from the road — they are still walking the pilgrimage they began. Will not enter buildings. Will engage if approached on the road.
+
+**Abilities.** **Tied-Bundle** (heavy bash — they still swing the scripture-bundle at their hip). **Pilgrim's Stagger** (a sad lurching charge that knocks a party member down). **Frost-Veil** passive — the body's cold radiates outward; adjacent party members take a small frost-tick.
+
+**Weaknesses.** **Faith magic — Van's sever-the-thread works on them.** Severing one cleanly lays the pilgrim to rest properly and grants a **Creator's-blessing** buff to the next combat (same as the Region 1 husks; effect stacks if the party severs more than one). Fire also works, but burning a pilgrim is the corrupt way; severing is the right way.
+
+**Encounter notes.** A repeat of the Region 1 husk encounter, with the cold-flavor and the frozen scripture. The party knows what to do. The presence of these husks means the pilgrim-road still runs north — even into Dreadvik — and at least some pilgrims have been trying to reach the cathedral chapel east of Crownhaven for years, dying on the way. **Van will be quieter for the rest of Region 4** after the first one of these.
+
+**Drops.** Frozen scripture-bundles (rebuild material — sacrament wine that froze but did not break, sealed scripture, alms-coin). Soul-glass shards (the original soul preserved partly, severable for a Creator's-blessing — same as Region 1 husks).
 
 ---
 
