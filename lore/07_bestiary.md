@@ -974,6 +974,86 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 ---
 
+### 13. Black-Steel Warden
+
+> Vallen: *"That's not Durgan's work. That's older."*
+
+**Appearance.** A suit of full black-steel plate, helm closed, standing in a wall-niche of the Lower Halls. Eight feet tall in the armor — too tall for a man, too thick in the shoulders for a dwarf. No visible body within when the armor finally opens to attack. **Just darkness, threaded with green-violet.** The armor itself is the creature.
+
+**Origin.** **Older than Durgan's constructs.** These are not forge-work. They are armor sets that **Ro'ak himself wore** in his early centuries of arms-mastery, set aside one by one as he outgrew each style or each century's fashion. He kept them in the Lower Halls as trophies. Noctheris reached into them. **Each Warden remembers being worn by Ro'ak.** They fight in the styles he fought in. The party fights, in miniature, every version of Ro'ak that came before the one waiting in the High Hall.
+
+**Behavior.** **One Warden per niche.** Activates when the party crosses its threshold. Fights in one of several Ro'ak-styles: the **Spear** (long-reach control, the youngest of his styles), the **Two-Sword** (his middle centuries, fast aggressive), the **Greatsword** (his late-middle, heavy and patient), or the **Sword-and-Shield** (his mature combat — and the style he will use in his first phase in the High Hall). The Lower Halls contain **four Wardens**, one per style.
+
+**Abilities.** Vary by style. Common across all: **Empty-Armor** passive (no head to behead, no body to disable — the armor must be reduced to pieces). **Ro'ak's-Memory** passive (the Warden anticipates the party's combat patterns from the second engagement onward; the second Warden fight is materially harder than the first because the armor has watched). **Style-Set Bonus** (whichever style this Warden fights in, its style-attacks are top-tier for that style across the whole game).
+
+**Weaknesses.** **The seams.** Black-steel plate is joined at the gorget, the underarm, the back of the knee. A targeted hit at a seam **collapses the section** of armor — and a Warden with a collapsed gorget cannot use neck-line attacks, a Warden with a collapsed knee cannot move fast. **Calypsa's spells and Runlan's bow target seams; Vallen's steel forces seams open under stress.** The fight is about systematically dismantling a suit of armor.
+
+**Encounter notes.** **Vallen will study the Sword-and-Shield Warden particularly carefully.** That is what Ro'ak will fight him with in the High Hall. A party that kills the Sword-and-Shield Warden cleanly **unlocks a small Vallen-buff for Ro'ak Phase 1** (a "studied the form" damage bonus). The Wardens are functionally a tutorial for Ro'ak.
+
+**Drops.** **Black-steel plate fragments** (heavy-armor reagent — top-tier; Vallen can have one piece refit by Durgan's forge if Durgan was talked down rather than killed, otherwise no fitting). **One of Ro'ak's old weapons per Warden** — Spear, Two-Sword set, Greatsword, Sword-and-Shield (a usable late-game weapon set, of which Vallen can pick one and keep). Rare drop on the Greatsword Warden: **a small portrait-locket** Ro'ak carried in his late-middle centuries, showing a young woman whose face has been scratched out by Ro'ak's own thumbnail. Vallen recognizes the locket-style. The portrait could be Lyra (Ro'ak's mother). Could be someone Ro'ak loved and tried to forget. **The game does not say.**
+
+---
+
+### 14. Choir-Thrall
+
+> Van: *"They are singing the same hymn we sing. With the words wrong."*
+
+**Appearance.** Robed figures in black with violet underlinings. Hoods up. Hands folded into sleeves. They stand in groups of seven in the Lower Halls' colonnaded chambers, in a deliberate circle, **singing.** Their faces, when the hoods slip, are gaunt and bloodless — but **alive.** Eyes green-violet but pupils still present, still tracking. They are humans who walked north of their own will to serve Ro'ak in liturgy.
+
+**Origin.** **Living cultists.** The choir is composed of the most devoted of Ro'ak's southern faithful — men and women who left Crownhaven, the Free Towns, even Greenwatch over the past two centuries to attend on him in the Black Spires. They are not corrupted in the way the dead are. They are **converted.** Noctheris's mark is in their eyes because they took it willingly, as a kind of ordination. Ro'ak permits the choir because their singing **strengthens the green-violet light** in the Lower Halls. It is a real magical effect, not a metaphor.
+
+**Behavior.** **The choir does not fight directly while the song is unbroken.** They stand in their circle and sing. The song produces a **Hymn-Aura** that buffs every other Region 4 enemy within the chamber: faster Bellows-Hounds, more durable Black-Steel Wardens, sharper Stair-Stalkers if any are nearby. **The party's first instinct will be to ignore the singing and fight the Wardens. This is wrong.** Killing or scattering the choir first **breaks the Aura** and makes every other enemy in the chamber materially easier.
+
+**Abilities.** **Hymn-Aura** (channeled while at least four of the seven choir members are singing; a strong damage-and-durability buff to all other Noctheris-aligned enemies in the chamber). **Counter-Hymn** (if Van begins to sing the Creator's hymn in the same chamber, the two songs **collide** — the choir's hymn weakens by half, and the party gets a small Van-buff). **Direct Combat** (if engaged, the cultists draw thin ritual daggers; they are weak fighters — fast to drop).
+
+**Weaknesses.** **Break the circle.** Take four of the seven down — by any means — and the song stops. **Or:** Van begins the Creator's hymn (a Van-only encounter ability available once per chamber); the song still strengthens the choir's protection slightly, but the **aura on other enemies collapses immediately.** Vallen will not enjoy this fight either — the cultists are people. The cultists are **wrong people**, but they are not raised dead. The party kills them or scatters them. **Scattering counts in Mercy Count too.** Most parties will scatter at least one circle.
+
+**Encounter notes.** **A magical-mechanical lesson.** The party learns to identify aura-sources and prioritize them. The Lower Halls contain **three choir-chambers** at different points in the dungeon. Skipping the choir in the first chamber teaches the lesson the hard way; killing or scattering the choir in the second is the test; the third is mastery.
+
+**Drops.** **Violet ritual robes** (light-armor reagent — Calypsa-grade; one set per cultist; refining yields a small dark-magic resistance). **Ritual daggers** (light-weapon reagent). **Hymn-scroll fragments** (a Van-readable item: the actual hymn the choir sings, with the corrupted words written out — Van can study this and **unlock a counter-hymn spell** for the rest of the game, including the Noctheris final fight in Region 5). **One named choir member per chamber** drops a **letter** addressed to family in Crownhaven explaining why they left. Letters are flavor-readable. They are theologically interesting and emotionally bleak.
+
+---
+
+### 15. Spire-Witch
+
+> Calypsa: *"She made the bargain herself. I can hear it in how she holds the magic."*
+
+**Appearance.** A tall woman, gaunt, robed in deep black with violet beadwork running the seams. Long pale hair, unbound. **Two violet stars in her eyes — not glowing the way Seraphiel's circlet did, but small and steady, like distant lights.** Carries a curved obsidian wand and a small black bowl on a chain at her hip. There are **three Spire-Witches** in the Lower Halls, each in her own chamber, each with her own minor variation of the same magic.
+
+**Origin.** **Adult-bargained vessels — smaller-scale Seraphiel-equivalents.** Each Spire-Witch was once a free mortal woman, ordinarily-magical (Crownhaven-arcanum-trained, or hedge-witch-talented, or temple-novice-trained) who, late in life, traveled north and offered Noctheris a bargain: more magic in exchange for some closing portion of her remaining years. Noctheris took the offer. Each Witch gave up between fifteen and forty mortal years. **They are not children of Noctheris.** They are not the Mothers. They are **adult-bargained vessels**, exactly the kind of arrangement the systems-document specifies. Seraphiel was the grandest version of this; the Spire-Witches are smaller, late-life versions — and there are three of them because not every bargain is unique.
+
+**Behavior.** Patient, articulate, willing to talk. **Each Witch will speak with the party before fighting, if approached calmly.** She will explain her bargain in plain words. She is not insane. She is not even particularly hateful. She made a trade. She finds it good. **If the party insists on safe passage, she fights — but she fights with regret, not fervor.** Each Witch will offer the party a chance to learn one small magical trick before combat (a low-cost knowledge-trade — Calypsa can accept; the trick is added to Calypsa's spell-list). Accepting the trick **does not negate the fight.** It only means Calypsa gets a small permanent upgrade if the party chooses to learn before killing.
+
+**Abilities.** Vary by Witch. The first Witch uses **Hollow-Bind** (a tether-spell that locks one party member's HP to a glyph on the floor; breaking the glyph frees them). The second Witch uses **Violet Flame** (a single-target high-damage projectile, slow to cast, telegraphed). The third Witch uses **Echo-Step** (she teleports short distances along echoes of the chamber's sound — Van's voice can interrupt this; otherwise she is hard to pin down). All three share: **Bargained-Lifespan** passive (each Witch has a hidden remaining-life counter visible only to Calypsa; once the counter hits zero in combat, the Witch dies without further combat — a "she traded her last years for one last fight" mechanic).
+
+**Weaknesses.** **Each Witch is older than she looks.** The bargain ate decades. **Their HP pool is lower than their visible level suggests.** Calypsa, who can see the bargain-lifespan counter, knows this. The party that lets Calypsa lead the fight will end it faster. **Van can also sever a Spire-Witch tether** (the same severing magic that works on raised dead works on adult-bargained vessels — but here, severing **kills her instantly, peacefully, in the middle of the conversation**, before the fight even begins, if Van is in the party and chooses to do so). This is a major moral choice. The Witch is willing. The Witch made the bargain. **Severing her tether ends her life with her consent — and unlocks a small Van-faith bonus for the rest of the game.**
+
+**Encounter notes.** **The smaller-scale teaching version of Seraphiel.** The party will have killed Seraphiel by now. The Spire-Witches help the party reflect on what that meant — not all vessels are like Seraphiel, but all vessels share the shape of her bargain. **Each Witch is an opportunity for the party to act in a slightly different way:** combat, conversation-then-combat, severance-with-consent. The game tracks all three. The party that handles all three Witches differently will earn a small **"Three Witches, Three Mercies"** late-game artifact: a wand that briefly suppresses corruption-effects in the Region 5 final fight.
+
+**Drops.** **Obsidian wand fragments** (high-end Calypsa weapon-reagent). **Witch-bowl** (a small ritual container with one charge of **Bargain-Sight** — Calypsa can use this in Region 5 to identify which of Noctheris's manifestations is the true one). **Beaded violet robes** (Calypsa-grade light-armor). On a severed Witch (Van's path): **a small written confession** in the Witch's own hand, addressed to no one, describing the bargain and asking Creator's pardon. Van keeps it. He carries all of them by the end of the region.
+
+---
+
+### 16. Old Forge-Lord (named: Thane Karok)
+
+> Vallen, quietly, from across the long-hall: *"That is a Dreadvik king's barrow-helm. He died wearing that. He should still be wearing it."*
+
+**Appearance.** A massive figure on a black-iron throne at the far end of the Lower Halls' longest chamber. **A raised dwarf, but Dreadvik-stock** — broad and tall for a dwarf, nearly five and a half feet, armored in plate the color of old iron-blood. **The barrow-helm of a Dreadvik thane** is set on his head, two stag-antlers rising from it, runic. A great-axe across his lap. His beard is white and braided in the old style. **Eyes green-violet, deep-set.**
+
+**Origin.** **A raised Dreadvik chieftain.** Thane Karok ruled a small clan in Dreadvik in the years before the Hollowing — the first dwarf-king to take an oath of fealty to Crownhaven, the man who made the early peace between mortals and dwarves of Dreadvik. He died old, in honor, was buried in barrow-stone deep beneath Dreadvik with his axe and his helm. **The Hollowing cracked his barrow.** Noctheris reached up. Ro'ak's host pulled the Thane down through the broken stone to the Lower Halls, and he was raised. **He has been here, on this throne, for two hundred years.** He does not understand where he is. He understands only that he has been called to fight one last time.
+
+**Behavior.** **Stands and engages when the party crosses the long-hall.** He fights as he fought in life: **disciplined, devastating, on his feet rather than on his throne, axe-and-shield, with the slow weight of a dwarf-thane who has buried more enemies than the party has fought.** This is the **hardest standard-enemy fight in Region 4 before Durgan.** The Forge-Lord does not run, does not retreat, does not call reinforcements. He fights alone.
+
+**Abilities.** **Thane's Axe** (a heavy two-handed great-axe sweep — wide AOE, high damage, slow telegraph). **Barrow-Helm Resilience** passive (heavy damage resistance from frontal attacks; the helm and its enchantments still hold). **Old-Oath** passive (every minute of combat, the Thane regenerates a small portion of HP — the dwarf-strength of a king who refuses to fall). **Last Stand** (when HP drops below twenty percent, the Thane plants his axe in the floor, takes a knee, and the next attack against him deals double damage — but the next attack against the party member who lands the killing blow returns full damage to them in a final reflex strike. **A clean kill costs blood.**).
+
+**Weaknesses.** **The barrow-helm.** Knocking the helm off — through a precise Runlan shot or a Vallen-shield-bash to the head — removes the **Resilience** passive and the **Old-Oath** regeneration both. The Thane fights on, but at standard durability. **Faith-magic severance does not work on him.** His tether is woven through dwarf-runes too old for Van's severing technique to cleanly cut. Steel is the answer. **Vallen will lead the kill personally.** It feels right to him.
+
+**Encounter notes.** **The fight is honored, on the party's side.** Vallen will say the Thane's name aloud before combat. Van will speak a Creator's blessing for the Thane's release. **The Thane hears them — and in the second phase of his fight, when the helm falls, he speaks for the first time:** *"You are... the same kind of mortal I was. Strike well."* This is the only line he speaks in the encounter. **It changes how the party thinks about the next two fights** (Durgan and Ro'ak), both of whom were also once a kind of mortal worth honoring.
+
+**Drops.** **Karok's Axe** (a top-tier great-axe — Vallen can wield it two-handed; if he does, he loses his shield slot but gains the strongest single weapon in the game before Durgan's drops). **The Barrow-Helm of Dreadvik** (a heavy helm — high defense, but **wearing it places the wearer under the runic-watch of the dwarves of Dreadvik**, a sequel-relevant detail; the dwarves disappeared north, but **someone is watching the helm-line still**). **Stag-antler fragments** (rare crafting material — Calypsa can refine into a staff-cap). **A small iron token** in the Thane's belt-pouch — **a Dreadvik clan-token still wet with old blood.** Vallen recognizes the clan-mark. **It is the same mark as on a banner hanging in the Sleeping Halls beneath Mother's Hearth that the party will see in Region 5.** Sequel hook. **Durgan's brother — or the Thane's living kin — or something else.**
+
+---
+
 ## Region 5 — Mother's Hearth (Prison of Noctheris)
 
 *(Pending. Final region. The descent into Noctheris's prison-chamber after Ro'ak falls in his High Hall. Vertical journey through Hollowing-broken depths. Capstone: Noctheris herself, in several phases.)*
