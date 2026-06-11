@@ -812,6 +812,106 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 ---
 
+### 5. Cinder-Golem
+
+> Durgan, from his anvil, without looking up: *"Mind the green ones. I'm not done with them."*
+
+**Appearance.** A man-and-a-half tall. Stone slabs bound with black iron straps. A **core of green-violet forge-fire** glowing visibly through a chest-slot, the same color as Ro'ak's eyes and Noctheris's corruption. Anvil-fist hands the size of a barrel. No face — just a recess where a face would be.
+
+**Origin.** Durgan Cinderforge's work. He shapes them at the Cinderforge Gate, in the open forge-yard, in plain view of any approaching party. **They are his constructs, but the green-violet fire that animates them is not his — it is Noctheris's, channeled through Ro'ak's nearness.** Durgan smiths the body; Ro'ak lights the heart.
+
+**Behavior.** Stand sentry at the Gate. Move slowly until engaged. Once engaged, the anvil-fist comes down hard and the core-fire flares. They do not pursue beyond the Gate yard — they are post-guards.
+
+**Abilities.** **Anvil-Fist** (a slow heavy single-target slam that staggers). **Forge-Flare** (when struck on the chest-slot, the core spits a short cone of green-violet flame). **Brittle-Death** passive — if killed by reducing body HP without targeting the core, the construct **detonates** on death (a small AOE green-fire burst that catches adjacent party members).
+
+**Weaknesses.** **The core itself.** Targeted strikes at the chest-slot kill the construct cleanly with no detonation. Runlan's bow and Calypsa's precise spells can reach the core; Vallen's sword needs a careful thrust. Killing the body first is faster but punishes the party. **The fight teaches discipline.**
+
+**Encounter notes.** First proper construct fight of Region 4. The party will lose HP to a detonation the first time. They will learn.
+
+**Drops.** Forge-stone (heavy crafting material — armor reagent). Core-shard (a small green-violet ember; if Van keeps it, it dims in his hand. If Calypsa keeps it, it hums. Hint at corruption-residue mechanics in Region 5).
+
+---
+
+### 6. Iron-Boar
+
+> Runlan: *"It's a battering ram with legs. Get out of the lane."*
+
+**Appearance.** A **siege-engine in the shape of a boar** — iron plates riveted over a stone-and-bone frame, tusks the length of swords, four squat legs ending in plate-shod hooves. Roughly the size of a small wagon. Green-violet fire visible in the seams along the spine.
+
+**Origin.** Durgan's heavier work. He built them to break gates and ranks in the field, before the Hollowing fell. Now they guard the Gate yard. **Five exist at the Cinderforge Gate. Three are operational. Two are in pieces in the forge — Durgan may be working on one when the party arrives, depending on how directly they approached.**
+
+**Behavior.** **Charge in a straight line.** Iron-Boars cannot turn while charging — the legs lock and the body commits. Once committed, they run until they hit something or run out of yard. They reset, snort, line up the next charge. Between charges they are vulnerable but slow.
+
+**Abilities.** **Iron Charge** (straight-line full-body slam — heavy damage and knockdown to anything in the lane). **Tusk-Hook** (between charges, a short upward gore from the tusks). **Plate-Hide** passive (reduced damage from edged weapons against the plated flanks).
+
+**Weaknesses.** **Knee-joints.** The legs are the only unplated section — joints visible from behind. Stagger a knee mid-charge and the Boar **collapses on its own momentum**, taking heavy self-damage and exposing its belly. Runlan called arrows to the knee. Vallen taught him.
+
+**Encounter notes.** The Gate fight is partly a lane-management puzzle. The party stands at the edges of the yard, draws charges, breaks knees. A bad turn lands a party member in the lane. **One Iron-Boar can down Vallen in a single uncovered charge.**
+
+**Drops.** Tusk-iron (weapon-reagent — high-end). Plate-scrap (armor-reagent). One operational Boar's spine yields a **Forge-Spark** consumable (single-use AOE damage item, party-shared, saves for Durgan's fight).
+
+---
+
+### 7. Bellows-Hound
+
+> Calypsa: *"They breathe in before they breathe out. Hit them on the inhale."*
+
+**Appearance.** Dog-sized constructs of riveted iron and black leather, four-legged, no head — just a **forge-bellows where the chest and head would be**, opening and closing as it breathes. Eyes set in the bellows-frame, green-violet. They move in packs of three.
+
+**Origin.** Durgan's lighter pack-work. The hounds were experiments — small constructs that could move fast and breathe fire in coordinated bursts. He likes them. **Fourteen exist at the Gate, in roving packs of three (sometimes four). The fourteenth is a damaged half-hound that limps with the largest pack.**
+
+**Behavior.** **Pack hunters.** Circle the party, attempting to flank. One bellows-inhales (winds up); the other two close to bite. Then they trade roles. If the inhaling one is interrupted mid-inhale, the pack loses its fire-rhythm for the next ten seconds.
+
+**Abilities.** **Bellows-Breath** (a forward cone of forge-fire — telegraphed by the visible inhale). **Iron-Bite** (the bellows-mouth clamps around a limb; sustained DOT until shaken off). **Pack-Coordinate** passive (damage bonus while at least two hounds are within close range of each other).
+
+**Weaknesses.** **The bellows-chest is both the weapon and the weak point.** A solid strike on the chest mid-inhale **ruptures the bellows** — instant kill, and the hound's stored fire vents harmlessly upward. Calypsa learned this in the first pack encounter; she will teach Runlan to time it.
+
+**Encounter notes.** Pack-fight rhythm. The party will encounter at least two packs before reaching the Gate proper, and one more inside the Gate yard during the main fight. **Bellows-Hounds are the most common Cinderforge enemy by count.**
+
+**Drops.** Bellows-leather (light-armor reagent, fire-resistant). Forge-fire sacs (alchemical material — Calypsa can refine into a small fire-damage spell augment).
+
+---
+
+### 8. Anvil Sentinel
+
+> Vallen: *"That anvil is breathing."*
+
+**Appearance.** A working anvil. **An actual working anvil**, sized for a dwarf-smith, set in a stone base, with a hammer resting on it as if the smith just stepped away. Until the party approaches without Durgan's voice ahead of them. Then the anvil **stands up.** Four iron legs unfold from the base. The hammer lifts. A face-plate slides open in the anvil-body, revealing a single green-violet eye.
+
+**Origin.** Durgan's masterwork. A sentry that camouflages perfectly as part of the forge furniture. **Only three exist in all of Region 4** — one in the Cinderforge Gate yard, one on the Cliff Stair landing, one in the Lower Halls. Durgan is proud of them. He calls them his apprentices.
+
+**Behavior.** Dormant unless approached by anyone who is not Durgan or not preceded by Durgan's spoken-aloud naming. Once activated, **does not leave its post-radius** — roughly twenty feet from where it stood. Within that radius, it is one of the most dangerous single enemies in Region 4. Outside it, harmless. The party can disengage by retreating.
+
+**Abilities.** **Sentinel-Hammer** (a heavy two-handed forge-hammer strike — high single-target damage, stuns on hit). **Anvil-Slam** (the body itself drops on a target — AOE knockdown). **Iron-Stance** passive (heavy damage resistance from all directions; the anvil is a sealed forge-piece). **Eye-Track** (the green-violet eye marks one party member; that member takes a damage bonus from every Sentinel attack until the eye is broken).
+
+**Weaknesses.** **The eye.** Break the face-plate's eye and the Sentinel loses Eye-Track and most of its accuracy. The eye is small, high on the body, hard to hit — Runlan's shot, or a Calypsa-precise spell. **Or: refuse the fight.** Step out of the radius and leave the Sentinel to settle back into its anvil-pose. The Gate Sentinel must be killed (it blocks the Gate path). The Stair and Halls Sentinels can be bypassed.
+
+**Encounter notes.** The party will encounter the Gate Sentinel as a mandatory mid-Gate fight (after most Bellows-Hounds and a few Cinder-Golems, before the Iron-Boar charge gauntlet). It is a difficulty spike. Surviving it earns a major drop.
+
+**Drops.** Sentinel-Hammer (a usable two-handed weapon — Vallen-grade, but heavy; Vallen can wield it if he gives up his shield). Anvil-plate (heavy-armor reagent, top-tier). Green-violet eye-shard (corruption-reagent for Region 5).
+
+---
+
+### 9. Forge-Wight ("Old Berik")
+
+> Van, kneeling at the door of the side-forge: *"He's still working. Creator forgive me, he's still working."*
+
+**Appearance.** A dwarf. Stooped, white-bearded, in a leather apron stained dark from a thousand years of work. He stands at a small side-forge in a hidden alcove off the Gate yard, **tapping a hammer against cold iron** that will never heat again. The forge in front of him is dead — no fire, no glow. He taps anyway. His eyes are the same green-violet as everything else here.
+
+**Origin.** **Old Berik was Durgan's master.** The dwarf who taught him the craft, four hundred years ago, before the Black Spires were anything more than a strange dark range on the northern map. Berik died old, at his forge, of nothing more dramatic than age. **Durgan raised him.** Not as an enemy. As company. Berik does not know he is dead. He works the cold forge because the work is what he is.
+
+**Behavior.** Will not engage unless engaged. Stands at his anvil, taps. If the party walks past, he does not turn. If the party speaks to him, he answers in a soft cracked voice about the iron not taking the heat tonight, about the apprentice (Durgan) running late, about needing to finish this commission for a customer who will be by in the morning. **He has been having this conversation for four hundred years.** If the party attacks, he turns, raises the hammer with surprising speed, and fights — sad, methodical, dwarf-grade.
+
+**Abilities.** **Master's Hammer** (one of the most precise single-target strikes in Region 4 — Berik was a master smith). **Forge-Sense** passive (Berik knows the metal of every weapon the party carries; takes reduced damage from any weapon he has "forged" — narratively, weapons of dwarf-make struggle against him). **Cold-Iron Endurance** (high HP, low speed, very high stagger-resistance).
+
+**Weaknesses.** **Van's faith magic — sever the thread.** Cleanly cutting Berik's tether to Noctheris lays him to rest at his anvil. He sits down on the forge-step, sets the hammer in his lap, says quietly *"Tell the apprentice I'm proud,"* and is gone. **Vallen will not let the party attack Berik directly if Van is in the party.** This is the only Region 4 enemy where the right answer is mercy, not steel.
+
+**Encounter notes.** A grief beat. The first hint to the party that **Durgan was not always a monster.** He had a teacher. He loved his teacher. He could not let him go.
+
+**Drops.** **Berik's Hammer** (a usable one-handed smith's hammer — Vallen-grade off-hand, or a major upgrade for Durgan's loot-table-poor crafting return). **Berik's Apron** (light-armor cosmetic — granting a small "old-craft" buff: minor bonus to all repair and reforge actions). **A single note** in dwarven, pressed into Berik's apron pocket: *"To my apprentice — when I am gone, you keep the forge open. Promise me."* Durgan kept the forge open.
+
+---
+
 ## Region 5 — Mother's Hearth (Prison of Noctheris)
 
 *(Pending. Final region. The descent into Noctheris's prison-chamber after Ro'ak falls in his High Hall. Vertical journey through Hollowing-broken depths. Capstone: Noctheris herself, in several phases.)*
