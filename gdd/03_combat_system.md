@@ -97,13 +97,25 @@ Core stats:
 
 These stats are intentionally simple so combat can be prototyped, balanced, and understood before adding deeper systems.
 
+## Down and Defeat Model
+
+The four main heroes do not die. When a hero reaches 1 HP, they become downed rather than killed.
+
+Downed handling is fully automatic and governed entirely by pre-battle setup:
+
+- If a party member has a revive potion equipped, it is used automatically during combat to revive the downed party member to 5% HP.
+- Revive potions are equipped before battle. Equipping a revive potion is a pre-battle decision, not a mid-combat command. The player never chooses whether or when to spend a revive potion during combat.
+- If no revive potions remain and all party members are downed, the battle ends. The party retreats and recovers.
+
+Recruited followers do not share the heroes' protection. Followers may still be injured or killed according to the locked follower rules in `01_core_loop.md` and `02_player_progression.md`.
+
 ## Victory and Defeat
 
 A battle ends when one side is defeated.
 
 The player wins when the enemy party is defeated.
 
-The player loses when the hero party can no longer continue. Since the four main heroes cannot be killed, defeat causes retreat and recovery. Recruited followers may be injured or killed depending on the outcome.
+The player loses when every party member is downed and no revive potions remain. Since the four main heroes cannot be killed, defeat causes retreat and recovery. Recruited followers may be injured or killed depending on the outcome.
 
 ## Lore Cross-Reference
 
@@ -124,6 +136,10 @@ Taunt fits the darker battlefield tone because defensive units can draw danger t
 - Defense reduces all incoming damage.
 - Speed affects both basic attack rate and cooldown recovery.
 - Combat decisions happen before battle, not during battle.
+- Heroes do not die; a hero at 1 HP becomes downed.
+- A revive potion equipped before battle is used automatically to revive a downed party member to 5% HP.
+- Revive potion equipping is a pre-battle decision, not a mid-combat command.
+- If all party members are downed and no revive potions remain, the battle ends and the party retreats and recovers.
 - Battle defeat leads to retreat and recovery for heroes.
 - Followers can be injured or killed.
 

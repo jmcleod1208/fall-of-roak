@@ -81,7 +81,7 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | `04_characters.md` | Done | 4 heroes, Ro'ak, Noctheris, the four lieutenants, Aetherion. |
 | `05_locations.md` | Done | 10 places + map summary table. Includes Captain Aerinith at Greenwatch and Ser Eadric at the Cathedral chapel east of Crownhaven. Mother's Hearth is now the prison of Noctheris (Region 5 final battle); Ro'ak's High Hall is the throne hall at the Spires summit (Region 4 capstone). |
 | `06_systems.md` | Done | Magic, faith, corruption, vessels, languages. Vessel-distinction lock is here. |
-| `07_bestiary.md` | Regions 1–3 done. Regions 4–5 pending. | 40 creatures across 3 regions, all four lieutenant fights + one Creator-native dragon (Aetherion) + one Noctheris-made dragon (Vorthak). |
+| `07_bestiary.md` | Regions 1–4 done. Region 5 pending. | Regions 1–3 (40 creatures) plus Region 4 (18 creatures, incl. Durgan at the Cinderforge Gate and Ro'ak's capstone), all four lieutenant fights + one Creator-native dragon (Aetherion) + one Noctheris-made dragon (Vorthak). |
 | `08_items_artifacts.md` | **STUB — template only.** | To consolidate scattered drops: Sunstrike Longsword, Lord Commander's Sigil, Moonwhisper Long/Short Blades, Moonwhisper Circlet, Whisper-Trophy, Aetherion's throat-scale, Stone Blessings, Crown Road Wraith's letter for Runlan, soul-glass shards, black-flame ember, sealed letter to Aerinith, and others. |
 | `09_plot.md` | **STUB — template only.** | Plot is implicit in lieutenant order and bestiary; main beats, midpoint, lowest-point, branches, endings, foreshadowing need writing. |
 | `10_glossary.md` | **STUB — template only.** | Proper-noun table, vocabulary, naming conventions, forbidden names. |
@@ -95,8 +95,8 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | 1 | The Greenfields | 13 (incl. Ser Kael capstone) | Done |
 | 2 | The Old Forest | 14 (incl. Aetherion #13 + Seraphiel #14) | Done |
 | 3 | The Demesne Moors | 13 (incl. Vorthak #13 multi-encounter) | Done |
-| 4 | The Black Spires & Mother's Fjord | Durgan at the Cinderforge Gate (mid-region), Ro'ak at his High Hall (capstone). Pending. | Next |
-| 5 | Mother's Hearth (Prison of Noctheris) | Descent through Hollowing-broken depths beneath the Spires. Noctheris herself as capstone. Pending. | After Region 4 |
+| 4 | The Black Spires & Mother's Fjord | 18 creatures, incl. Durgan at the Cinderforge Gate (mid-region) and Ro'ak at his High Hall (capstone). | Done |
+| 5 | Mother's Hearth (Prison of Noctheris) | Descent through Hollowing-broken depths beneath the Spires. Noctheris herself as capstone. Pending. | Next |
 
 ### Endgame structure (locked)
 
@@ -131,6 +131,6 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 
 1. Read the eleven numbered lore files in order.
 2. Re-read this file for status and conventions.
-3. Confirm with the user where they want to resume. Likely: settle the Region 5 identity question, then proceed to Region 4 design questions (already prepared, see prior chat transcript or ask the user to paste them).
+3. Confirm with the user where they want to resume. Region 4 (The Black Spires & Mother's Fjord) is done; the likely next step is Region 5 (Mother's Hearth, Prison of Noctheris) — the descent and the Noctheris capstone.
 4. Follow the Q&A format: numbered prompts → user picks letters → assistant drafts full inline text → user says "lock in" → assistant commits.
 5. If the user asks for something that contradicts a locked lore convention above, stop and flag it before drafting.

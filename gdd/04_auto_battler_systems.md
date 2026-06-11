@@ -70,10 +70,11 @@ Before battle, the player decides:
 - Which followers to bring.
 - Where each hero and follower is placed on the grid.
 - Which gear and loadouts are equipped.
+- Which revive potions are equipped on party members.
 - Which role synergies are active.
 - Whether the party has enough healing items and supplies to continue.
 
-Once battle begins, the player does not move units, activate abilities, retarget enemies, or issue commands. The player's meaningful auto-battler decisions happen during setup.
+Once battle begins, the player does not move units, activate abilities, retarget enemies, or issue commands. The player's meaningful auto-battler decisions happen during setup. Revive potions equipped before battle are spent automatically when a party member is downed, per the down and defeat model in `03_combat_system.md`.
 
 ## Role-Based Synergies
 
@@ -152,6 +153,7 @@ Homefront-based recruitment supports the rebuilding theme established in the GDD
 - Maximum normal party size is eight units.
 - Followers are optional support units.
 - The player positions units before battle.
+- Revive potions are equipped before battle and spent automatically during combat.
 - Units cannot be repositioned during battle.
 - Synergies are simple role-based bonuses.
 - First synergy categories are Tank, Healer, Damage Dealer, and Support.

@@ -246,13 +246,15 @@ These matter less for *Fall of Ro'ak* than for sequels, but worth setting down:
 - **Before battle**, the player:
   - Equips gear (weapons, armor, accessories) on each hero and follower
   - Stocks consumables (potions, food, faith-relics, etc.)
+  - Equips revive potions on party members
   - Sets party positioning on the battle grid
-  - Configures AI behavior toggles — including **how the AI should treat a downed ally** (e.g. whether and when to spend a revive potion on a downed hero or follower)
-- **Once battle begins**, the player **watches.** Combat plays out automatically:
+  - Configures AI behavior toggles
+- **Once battle begins**, the player **watches.** Everything resolves automatically:
   - Spells and abilities fire based on each character's AI logic
   - Heroes target, position, and react on their own
+  - Revive potions are spent automatically when a party member is downed
   - The player **does not** manually activate abilities or issue orders during the fight
-- The skill ceiling is in the **preparation**, not the swing.
+- All combat decisions — behavior toggles, revive potion setup, equipment, and formations — happen before combat. The skill ceiling is in the **preparation**, not the swing.
 
 ### Replayable Fights
 
@@ -265,19 +267,21 @@ These matter less for *Fall of Ro'ak* than for sequels, but worth setting down:
 Heroes **do not earn XP or level up traditionally.** Power scales through four channels:
 
 1. **Gear** — stronger weapons, armor, and accessories as the journey progresses east. Loot drops from combat (including farmed re-runs of earlier fights), found in dungeons/ruins, traded in town.
-2. **Consumables** — more powerful potions, faith-relics, and one-shot items unlock as the game advances.
+2. **Consumables** — more powerful potions, faith-relics, and one-shot items unlock as the game advances. Not all healing potions come from the Homefront. **Calypsa can craft small healing potions in the field** from materials gathered in battle — consistent with her role as the party's field healer. **Larger healing items are produced by the Homefront and sent forward by caravan.**
 3. **Region Rebuilding** — every town or village restored to working order grants **passive stat bonuses** to the party as long as it stands. A rebuilt chapel buffs Van's holy magic. A rebuilt smithy improves weapon quality. A rebuilt herb garden buffs Calypsa's healing. Etc.
 4. **Recruited NPCs** — a larger and more capable follower roster makes encounters progressively easier. **The party effectively gets bigger as you go.**
 
 ### Death & Failure Handling
 
-- **A hero is downed when their HP reaches 1**, not zero. **Downed heroes remain on the battlefield** — they do not leave the fight.
-- Downed heroes can be **revived mid-combat** by a revive potion. The decision of *whether and when* to use a revive potion is governed by the **pre-battle AI toggles** the player configured. (Want the AI to burn potions aggressively to keep heroes up? Set it that way. Want the AI to hoard potions and let the downed hero ride it out? Set it that way.)
-- **If all four heroes are downed simultaneously, the party flees.** Combat ends immediately. The party retreats to the nearest camp and must **fully heal** before re-attempting the encounter.
+- **Heroes do not die.** A hero is downed when their HP reaches 1, not zero. **Downed heroes remain on the battlefield** — they do not leave the fight.
+- If a party member has a **revive potion equipped**, it is **used automatically during combat** to revive the downed party member to **5% HP.** Equipping revive potions is a pre-battle decision, not a mid-combat command — the player never chooses whether or when to spend one once the fight begins.
+- **If no revive potions remain and all party members are downed, the battle ends.** The party retreats and recovers. They must **fully heal** before re-attempting the encounter.
 - **Followers do not share the heroes' narrative protection.** A follower whose HP reaches 0 **dies permanently.** Their gear is recovered; they are not.
 - **There is no game-over state.** The story always continues. The party can always retry. **The cost of failure is in who you lose along the way — not in starting over.**
 
 ### The Region Rebuilding System
+
+**Terminology.** **Homefront** is the player-facing umbrella name for the full rebuilding network — the term the game and its UI use for the whole effort. **Region Rebuilding System** is the broader design and system category that this section describes. The individual villages and settlements named below (Fernfield, Hartwick, Crownhaven) are specific lore places inside the Homefront, not separate systems. Where the GDD says "Homefront," it means this same network.
 
 What was once called "village building" expands by mid-game into a true **regional restoration project.** As the party moves east, they unlock more places to rebuild:
 
@@ -300,7 +304,7 @@ The Region Rebuilding System is connected to the journey by a **caravan route** 
 
 #### The Elder Couple
 
-The player interacts with the Region Rebuilding System through a **village elder couple** — the management interface character(s) for the whole rebuild effort. They:
+The player interacts with the Region Rebuilding System through a **village elder couple** — the management interface character(s) for the whole rebuild effort, and the **early-game NPC interface and tutorial guide for the Homefront.** They:
 
 - Coordinate the rebuilds across all villages and towns the player unlocks
 - Take requests from the player for what to prioritize

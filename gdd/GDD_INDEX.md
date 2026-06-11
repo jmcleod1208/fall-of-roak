@@ -83,5 +83,7 @@ Start with these files in order:
 
 ## Current Status
 
-All files are initialized as templates. No new mechanics are locked by this setup unless explicitly labeled as a locked continuity constraint from the lore bible.
+`00_overview.md` through `04_auto_battler_systems.md` are locked initial files. Their core decisions should not be overwritten without explicit approval.
+
+`05_heroes_units.md` through `14_glossary.md` remain templates and are unlocked. No new mechanics are locked in those files unless explicitly labeled as a locked continuity constraint from the lore bible.
 

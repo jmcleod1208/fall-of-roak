@@ -86,7 +86,9 @@ Homefront progression comes from:
 - Multiple rebuilding projects.
 - Resource production chains.
 
-Building upgrades unlock or improve production, healing items, recruitment, crafting, storage, caravan logistics, blacksmith salvage, and recovery support.
+Building upgrades unlock or improve production, logistics, recovery, recruitment, crafting, supplies, caravan support, blacksmith salvage, and storage.
+
+Specific buildings and building upgrades can also grant passive stat bonuses to the party. These bonuses come from individual buildings or their upgrades, not from any overall Homefront level. A rebuilt or upgraded building can improve a relevant party stat for as long as it stands, tying combat strength back to which parts of the rebuilding network the player invests in.
 
 The lack of a single Homefront level keeps progression more concrete. The player improves specific parts of the rebuilding network instead of raising one abstract number.
 
@@ -160,9 +162,10 @@ Story-gated campaign progression keeps the march east, Ro'ak's forces, Noctheris
 - The blacksmith can break damaged follower gear down into materials.
 - The Homefront does not have an overall level.
 - Homefront progression comes from individual building levels, multiple rebuilding projects, and resource chains.
+- Specific buildings and building upgrades can grant passive party stat bonuses, not an overall Homefront level.
 - Campaign progression is mainly story-gated.
 - New regions and major systems should unlock through story milestones.
-- Homefront progression supports combat, recovery, recruitment, caravan logistics, crafting, salvage, and production.
+- Homefront progression supports production, logistics, recovery, recruitment, crafting, supplies, caravan support, salvage, and passive party stat bonuses.
 - Difficulty increases as the party travels farther east.
 - Gear is the main power-growth system for both heroes and followers.
 
