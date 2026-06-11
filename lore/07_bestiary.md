@@ -980,17 +980,17 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 **Appearance.** A suit of full black-steel plate, helm closed, standing in a wall-niche of the Lower Halls. Eight feet tall in the armor — too tall for a man, too thick in the shoulders for a dwarf. No visible body within when the armor finally opens to attack. **Just darkness, threaded with green-violet.** The armor itself is the creature.
 
-**Origin.** **Older than Durgan's constructs.** These are not forge-work. They are armor sets that **Ro'ak himself wore** in his early centuries of arms-mastery, set aside one by one as he outgrew each style or each century's fashion. He kept them in the Lower Halls as trophies. Noctheris reached into them. **Each Warden remembers being worn by Ro'ak.** They fight in the styles he fought in. The party fights, in miniature, every version of Ro'ak that came before the one waiting in the High Hall.
+**Origin.** **Lieutenant-prototype armor.** Two centuries ago, in the early Hollowing years, Ro'ak ordered Durgan to forge a set of war-armor for **sub-commanders** — beings built large, built for war, intended to lead the wings of his host in the field. Durgan made four. **Ro'ak fielded none of them.** He preferred captains who were once mortal — turned humans, broken orc-clansmen, the choir of converted faithful. A captain who could be persuaded was worth more to him than a captain who was shaped. The four armor-prototypes were set aside in the Lower Halls and forgotten. **Noctheris reached into them anyway.** They woke, slowly, on their own — each remembering the combat doctrine it was forged for, none remembering anything else. They have stood in their niches for two hundred years.
 
-**Behavior.** **One Warden per niche.** Activates when the party crosses its threshold. Fights in one of several Ro'ak-styles: the **Spear** (long-reach control, the youngest of his styles), the **Two-Sword** (his middle centuries, fast aggressive), the **Greatsword** (his late-middle, heavy and patient), or the **Sword-and-Shield** (his mature combat — and the style he will use in his first phase in the High Hall). The Lower Halls contain **four Wardens**, one per style.
+**Behavior.** **One Warden per niche.** Activates when the party crosses its threshold. Each fights in one of four distinct doctrines: the **Spear** (long-reach control), the **Two-Blade** (fast paired falchions, aggressive flanking), the **Greatsword** (heavy patient single-blade), or the **Halberd-and-Shield** (formation-anchor, slow but immovable). The Lower Halls contain **four Wardens**, one per doctrine.
 
-**Abilities.** Vary by style. Common across all: **Empty-Armor** passive (no head to behead, no body to disable — the armor must be reduced to pieces). **Ro'ak's-Memory** passive (the Warden anticipates the party's combat patterns from the second engagement onward; the second Warden fight is materially harder than the first because the armor has watched). **Style-Set Bonus** (whichever style this Warden fights in, its style-attacks are top-tier for that style across the whole game).
+**Abilities.** Vary by doctrine. Common across all: **Empty-Armor** passive (no head to behead, no body to disable — the armor must be reduced to pieces). **Doctrine-Memory** passive (the Warden anticipates the party's combat patterns from the second engagement onward; the second Warden fight is materially harder than the first because the armor has watched). **Doctrine-Set Bonus** (whichever style this Warden fights in, its style-attacks are top-tier for that doctrine across the whole game).
 
 **Weaknesses.** **The seams.** Black-steel plate is joined at the gorget, the underarm, the back of the knee. A targeted hit at a seam **collapses the section** of armor — and a Warden with a collapsed gorget cannot use neck-line attacks, a Warden with a collapsed knee cannot move fast. **Calypsa's spells and Runlan's bow target seams; Vallen's steel forces seams open under stress.** The fight is about systematically dismantling a suit of armor.
 
-**Encounter notes.** **Vallen will study the Sword-and-Shield Warden particularly carefully.** That is what Ro'ak will fight him with in the High Hall. A party that kills the Sword-and-Shield Warden cleanly **unlocks a small Vallen-buff for Ro'ak Phase 1** (a "studied the form" damage bonus). The Wardens are functionally a tutorial for Ro'ak.
+**Encounter notes.** **The four Wardens fight in four distinct combat doctrines** — spear-control, two-blade aggression, greatsword patience, halberd-and-shield formation. The party that clears all four will have practiced against every major weapon-style Ro'ak's host has used over two centuries. **This does not tutorialize Ro'ak himself** — Ro'ak fights nothing like these. He fights with a two-handed orc axe and Noctheris's staff, in a style that is uniquely his and uniquely terrible. **What the Wardens prepare the party for is the chaos of the High Hall and the descent below it** — the host streaming in around Ro'ak during the larger fights of Region 4 and 5, every captain fighting in a doctrine the party will have already broken once.
 
-**Drops.** **Black-steel plate fragments** (heavy-armor reagent — top-tier; Vallen can have one piece refit by Durgan's forge if Durgan was talked down rather than killed, otherwise no fitting). **One of Ro'ak's old weapons per Warden** — Spear, Two-Sword set, Greatsword, Sword-and-Shield (a usable late-game weapon set, of which Vallen can pick one and keep). Rare drop on the Greatsword Warden: **a small portrait-locket** Ro'ak carried in his late-middle centuries, showing a young woman whose face has been scratched out by Ro'ak's own thumbnail. Vallen recognizes the locket-style. The portrait could be Lyra (Ro'ak's mother). Could be someone Ro'ak loved and tried to forget. **The game does not say.**
+**Drops.** **Black-steel plate fragments** (heavy-armor reagent — top-tier; Vallen can have one piece refit by Durgan's forge if Durgan was talked down rather than killed, otherwise no fitting). **One Lieutenant-prototype weapon per Warden** — a black-iron spear, a paired set of two falchions, a heavy greatsword, a halberd-and-shield set (a usable late-game weapon set, of which Vallen can pick one and keep). Rare drop on the Greatsword Warden: **a sealed iron tube** containing Durgan's original forge-schematics for the prototype — a Calypsa-readable curiosity, hinting at Durgan's hand on every piece of war-craft in the Black Spires.
 
 ---
 
@@ -1051,6 +1051,179 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 **Encounter notes.** **The fight is honored, on the party's side.** Vallen will say the Thane's name aloud before combat. Van will speak a Creator's blessing for the Thane's release. **The Thane hears them — and in the second phase of his fight, when the helm falls, he speaks for the first time:** *"You are... the same kind of mortal I was. Strike well."* This is the only line he speaks in the encounter. **It changes how the party thinks about the next two fights** (Durgan and Ro'ak), both of whom were also once a kind of mortal worth honoring.
 
 **Drops.** **Karok's Axe** (a top-tier great-axe — Vallen can wield it two-handed; if he does, he loses his shield slot but gains the strongest single weapon in the game before Durgan's drops). **The Barrow-Helm of Dreadvik** (a heavy helm — high defense, but **wearing it places the wearer under the runic-watch of the dwarves of Dreadvik**, a sequel-relevant detail; the dwarves disappeared north, but **someone is watching the helm-line still**). **Stag-antler fragments** (rare crafting material — Calypsa can refine into a staff-cap). **A small iron token** in the Thane's belt-pouch — **a Dreadvik clan-token still wet with old blood.** Vallen recognizes the clan-mark. **It is the same mark as on a banner hanging in the Sleeping Halls beneath Mother's Hearth that the party will see in Region 5.** Sequel hook. **Durgan's brother — or the Thane's living kin — or something else.**
+
+---
+
+### 17. Durgan Cinderforge — Lieutenant IV
+
+> Durgan, looking up from his anvil as the party crosses the threshold of the inner forge: *"Ahhh. The Greenwatch boy. Mother said you would come. Come in, come in. The fire is warm."*
+
+**Appearance — Gate phase.** A broad dwarf, five feet and a hand, shoulders wider than a man's. Beard plaited into the leather of his apron with iron rings. **Two great working hammers**, one in each hand. Black-iron plate over the apron's chest. **Eyes green-violet, but warm green-violet** — the warmth is the disturbing part. He smiles at the party when they enter the Gate yard. The smile reaches his eyes.
+
+**Appearance — Forge phase.** Same dwarf, but **bloodied at the shoulder** (the wound the Gate phase left him), apron singed, **one hammer now glowing white-hot from his own forge**, the other still cold iron. **The forge-fire behind him is green-violet, not orange** — Noctheris-fed. The smile is gone. **Not angry. Sad. Patient. Reverent.** *"Mother told me you would not stop at the Gate. She is rarely wrong. Come closer, then."*
+
+**Origin.** Already lore-established in the character file. Summary for the entry: Dreadvik dwarf. Master smith. Lost the rest of his clan in the Hollowing. Was taken in by Ro'ak in the early Hollowing-years and brought into Noctheris's service as Lieutenant IV — the **architect and weapon-smith of the Black Spires.** Has served the Mother for four centuries. Calls her "Mother" with no irony, no madness in the word, no hatred for the Creator. Just a man who, having lost his family, found another. **Reverent. Warm. Insane in the precise way the others are not.**
+
+---
+
+**STRUCTURE — Two-Arena Fight.**
+
+**Arena 1: Cinderforge Gate yard (open).**
+
+- Durgan stands at the open yard's anvil. The party has just cleared the last of the Gate's constructs (Cinder-Golems, Iron-Boars, Bellows-Hounds, the Gate Anvil Sentinel).
+- Durgan does not summon reinforcements. He greets the party. He compliments their work on the constructs. He tells Vallen he met Vallen's father once, in passing, in a Dreadvik market — *"a careful young man, with his father's eyes. You have his."*
+- **Combat begins when the party initiates.** Durgan will not strike first. He waits. He smiles. **If the party hesitates for more than thirty seconds, he begins.** *"Take your time, lad. The fire keeps. But Mother is patient and I am not so much."*
+- Gate-phase fight: **open yard, single arena, no constructs.** Durgan, alone, against the party.
+
+**Arena 2: Inner Forge (closed).**
+
+- At one HP-bar remaining (roughly twenty-five percent of his total Gate-phase HP), Durgan **flees** — not in fear, but in **work-discipline.** He breaks combat, runs to the side-arch into the Inner Forge, slams the iron door behind him. *"One moment, friends. I need to heat a thing."*
+- The party must pursue. The Inner Forge door takes thirty seconds of party-attack to break, or Vallen-with-shield can shoulder it open in one mighty hit (a small Vallen-spotlight beat).
+- Inside the Inner Forge: a smaller, hotter, **closed arena.** Forge-fire burning green-violet on every side. **The walls are weapons** — Durgan has racks of unfinished weapons all around the chamber, and during Forge phase he can **pull from the racks mid-combat** to swap his loadout. Forge-phase Durgan is more dangerous than Gate-phase Durgan. He has rested for the thirty seconds the door took to break, regained a quarter of his Gate-phase HP, and **he has heated a hammer.**
+
+---
+
+**Abilities — Gate Phase.**
+
+- **Twin-Hammer Strike** (a fast two-handed alternating combo — high single-target damage on Vallen, the prime target).
+- **Forge-Throw** (Durgan throws a hammer; it returns to his hand on a chain after striking; mid-range AOE on a line).
+- **Apprentice-Whistle** (a single high whistle that summons **one** spare Bellows-Hound from a back-of-yard kennel — but only **once** in the Gate fight; Durgan will not call more, because **he is fighting honorably and the constructs were already finished**).
+- **Master-Smith's Eye** passive (Durgan reads weapon-styles like a book; the third time any party member uses the same attack pattern, that pattern is **predicted** and parried for one full hit's worth of negation).
+- **Forge-Lung** passive (Durgan does not tire; no stamina-related vulnerability windows).
+
+**Abilities — Forge Phase.**
+
+- All Gate-phase abilities, plus:
+- **White-Heat Hammer** (the heated hammer ignites everything it touches; sustained DOT on hit, **stacks**; three stacks force a hit-target into a brief panic-state that breaks formation).
+- **Rack-Swap** (Durgan grabs a new weapon from a wall-rack; cycles through styles he was never seen using in the Gate phase — a war-hook, a chain-flail, a smith's tongs that pin a party member in place).
+- **Forge-Heat Aura** passive (the chamber's heat itself is damage; party members lose a small portion of HP every five seconds, regardless of contact — the Forge-Spark consumable from the Iron-Boar drop **negates this aura for thirty seconds** if used).
+- **Mother's Voice** (once per Forge phase, Durgan stops fighting, kneels, and speaks aloud to Noctheris below the floor; for ten seconds he is **unattackable** — any hit deflects off a shimmering green-violet field — but at the end of the ten seconds he rises with **full HP restored.** The party **must interrupt this** by killing a small **Voice-Glyph** that appears on the floor next to him during the kneel; if they break the glyph in time, Durgan stands up without his restoration and the Voice-fail produces an animation of him looking **briefly, terrifyingly, lucid** before the green-violet returns. **This is the one chance to talk him down.**).
+
+---
+
+**Weaknesses.**
+
+- **Honor.** Durgan fights one-on-many honorably. He will not summon more than one outside enemy. He will not turn the constructs back on the party. He will not call Ro'ak for help. **This is the only fight in the game against a Lieutenant-tier enemy that the party can lose only by being out-skilled, not out-numbered.**
+- **The Wounded Shoulder.** The Gate phase ends with Durgan taking a clean hit to the right shoulder before he flees. **In Forge phase, his right-hand attacks deal slightly less damage** than they would have. A party that pays attention will recognize the limp and target the right side for parry-windows.
+- **Mother's Voice — Glyph Break.** Detailed above. The single chance to **lose-on-purpose-and-win-by-mercy.**
+
+---
+
+**The Mercy Path (optional).**
+
+- **If the party breaks the Mother's Voice glyph in time AND has Van in the party AND has not killed Berik (entry 9):** Durgan stands up lucid, looks at the party, looks at the door to the back room (where Berik's anvil sits empty for the first time in four centuries), and **sits down.** He puts both hammers on the floor. He says: *"I did not... I did not know I was so tired. Mother is loud. Where is Berik?"*
+- **The party can answer or not answer.** If Van speaks the truth — that Berik was laid to rest with mercy — Durgan listens, weeps for a long minute, and **lays down his hammers permanently.** He surrenders. He cannot be returned to Crownhaven (the Hollowing-corruption is too deep, he will die within a year), but he can be **left in the Forge to spend his last year in peace.** The party loses the Forge-fight rewards but **gains the Cinderforge open-door bonus** for the rest of Region 4 (constructs the party has not yet cleared deactivate; Durgan's forge becomes accessible for one Black-Steel Warden plate-refit; **and the Forge-Spark consumable becomes craftable rather than single-use**).
+- **If the party did kill Berik:** the Mother's Voice interrupt still works mechanically — Durgan loses his restoration — but the **conversation does not happen.** Durgan rises, sees the party, sees what they did to Berik, and re-enters the fight with **fury** instead of reverence. Combat continues but Durgan deals 25% more damage for the rest of Forge phase. **A small permanent loss for not having spared Berik.**
+
+---
+
+**Encounter notes.**
+
+- **The hardest standard fight in the game.** Durgan is intended to be harder than Ro'ak Phase 1 and arguably harder than Ro'ak Phase 2 for a party that doesn't take the Mercy Path. He is the Lieutenant who has trained the longest, eaten the most, slept the most, and never lost his discipline. **He is also, by some measure, the most morally complex enemy in the game — the one most clearly "a man who loved a thing too much and would not let it go."**
+- **No party will defeat him on a first attempt.** That is intentional. The first attempt will teach the Twin-Hammer rhythm. The second will teach the Rack-Swap. The third, if the party reached it, may have all three: the Forge-Spark in inventory, the Berik-mercy banked, and the discipline to break the Mother's Voice glyph.
+
+---
+
+**Drops — Combat Kill.**
+
+- **Durgan's Hammer** (one of the two — the iron one if he died in Gate phase, the white-heat one if he died in Forge phase; a top-tier one-handed weapon; either grants **Forge-Sense** passive — small bonus to all repair and reforge actions, mechanically equal to Berik's Apron).
+- **The Cinderforge Apron** (heavy-armor reagent — **the strongest crafting material in the game before Region 5**, suitable for end-game armor reforges; *requires* a smith to use it; **without Durgan, there is no smith left in the world who can work it.** The party must carry the apron into Region 5 unused, and **the apron itself becomes a sequel-hook drop**).
+- **Master-Smith's Notes** (a Van-and-Calypsa-readable codex of Durgan's four centuries of construct-work; reads like a confessional more than a technical manual; **opens a small flavor side-quest the party can choose to pursue after the game ends: rebuilding one of Durgan's constructs as a guardian for Greenwatch, post-victory**).
+- **Mother's Iron** (a single black-iron ingot bearing **a fingerprint pressed into it from the inside** — like something on the other side of the iron pushed a finger through; Calypsa recognizes the shape as **not human, not dwarf, not elven**; the ingot is unusable as a crafting material but **glows faintly when carried into the Mother's Hearth** in Region 5 — pointing the way to the true Noctheris).
+
+**Drops — Mercy Path.**
+
+- All Combat Kill drops **except** the Cinderforge Apron is replaced by **the open Forge itself** (a usable workspace for the remainder of Region 4 and the early part of Region 5; Durgan, before he goes, refits one item per party member from his racks).
+- **A small note from Durgan**, pressed into Vallen's hand as the party leaves: *"Tell my brother I am sorry. He is — he is somewhere south. I do not remember where. Find him for me."* **Sequel hook for a Durgan-brother arc.**
+
+---
+
+### 18. Ro'ak — Capstone (Two Phases)
+
+> Ro'ak, on the obsidian throne of the High Hall, his bloodshot eyes lifting as the party crosses the final step: *"Ahh. The Greenwatch boy. Lord Skye's daughter. The hunter. And the de la Cruz priest. Mother said you would come. She has been waiting since you took the Cradle. Come up. The fire is warm. The throne is large enough for one — and I do not give it up easily."*
+
+**Appearance — Phase 1.** **Over eight feet tall.** Slabs of muscle layered over a frame built across two and a half centuries of Noctheris's making. **Skin the brownish-green of his father's orc-cast under his mother's human warmth, darkened further by the Hidden Centuries beneath Dreadvik.** **Two great tusks** rise from either side of his lower jaw, longer than a pure orc's would be. **Long black hair, matted with the oil of war, pulled back from his face for the fight.** **Bloodshot eyes** — the whites are not white, they are the color of an eye that has wept blood and never stopped. He wears **spiked black-iron plate**, skulls and bones decorating the pauldrons and breastplate, **a long dark robe draped over the armor like a king's cloak.** **A two-handed orc-forged axe** in his right hand, perfectly balanced for him, oversized for any normal warrior. **In his left, a staff taller than a man,** of something not quite wood, **glowing purple and green, dripping with the magical power of Noctheris.** The staff weighs nothing in his hand. **It is hers.**
+
+**Appearance — Phase 2.** Ro'ak, **wounded but not slowed.** The robe in tatters. Plate-seams split at the right shoulder where Vallen's blade found purchase in Phase 1. The bloodshot whites of his eyes have **finally turned green-violet** — Noctheris fully inside him now, the seam of son-and-mother-and-vessel sealing. **The axe is still in his right hand.** **The staff is no longer in his left** — Noctheris has called it from his grip; it now **floats free above him**, spinning slowly, raining green-violet sparks into the High Hall, **wielded by no hand.** Ro'ak fights with the axe two-handed. Noctheris fights with the staff overhead. **They are two combatants in one body's worth of space.**
+
+**Origin.** Already lore-established in the character file. Summary: **Half-orc.** Son of Elena (a human woman stolen from a village near Crownhaven by the orc chieftain Ra'gor) and Ra'gor (an orc warlord of the Eastern clans, killed in a duel Noctheris arranged when Ro'ak was eight years old). Taken into Noctheris's lair beneath Dreadvik that same year and raised by her in the dark for 242 years — fed, taught, soothed, told he was loved. **The only Mother-given child to grow rather than be consumed in infancy.** He believes Elena gave him up. He believes Ra'gor died because the duel went badly. **He does not know Noctheris caused his father's death.** **He cannot be saved.** Two and a half centuries of love for the only being who ever loved him have made the corruption unbreakable. **What walks the High Hall is what Noctheris built in place of the boy.**
+
+---
+
+**STRUCTURE — Two-Phase Capstone.**
+
+**Phase 1: Ro'ak alone, axe-and-staff, in the High Hall (open arena).**
+
+- Ro'ak rises from his throne when the party crosses the dais-threshold. The dark robe falls open. He plants the staff on the obsidian floor and the floor **hums** under it. *"Mother said it would be four of you. Mother is always right."*
+- He **talks during combat.** Long stretches. He tells Vallen exactly how Vallen's father died (a different version than Vallen knows; the truth is somewhere between them). He tells Calypsa that her father (Lord Skye, presumed Hollowing-victim) walked into the Black Spires under his own power and asked for sanctuary — that Lord Skye chose the dark to escape some other thing he could not name. **The party cannot tell if Ro'ak is lying.** Ro'ak does not appear to be lying. Ro'ak rarely lies outright. **His worst weapon is the truth, twisted at the angle that hurts most.**
+- Mechanically: **axe-and-staff against a four-person party.** **The axe is melee. The staff is ranged.** Ro'ak's two arms fight two different kinds of combat at once, and the party must split focus to survive. **He does not summon. He does not heal. He does not run.** This is between him and the four of them, and that is how he wants it.
+- Phase 1 ends at **fifty percent HP.**
+
+**Phase 1 to Phase 2 Transition.**
+
+- Ro'ak does not flee. He **roars** — the chaotic magic of Noctheris bleeding into the sound, the air of the High Hall shaking, dust raining from the rafters. He drops to one knee. The staff lifts from his grip on its own, rising into the air above him. **For a long ten seconds, his bloodshot eyes flicker — and for the first time in the encounter, he speaks in a softer voice, almost childlike.** *"...Mother. Mother, I am tired. The boy... the Greenwatch boy is good. I told you he would be. Mother, why — why does my shoulder remember Father's hand? Why now? Why — "*
+- The party can attack during this — and **doing so deals double damage and skips the transition speech entirely.** A patient party will wait. The patient party gets the line above.
+- Then the eyes flood green-violet. The staff begins to spin. **Noctheris is in him now, with no remainder of the boy.** Phase 2 begins.
+
+**Phase 2: Ro'ak puppeted by Noctheris, axe in hand, staff overhead.**
+
+- More dangerous in raw damage. **Less precise in tactics** — Noctheris has the strength of an Original but not Ro'ak's centuries of axe-mastery. The axe-swings are wider, slower, **more devastating when they land but easier to read.** The staff overhead, however, is now **a free third combatant** raining green-violet magic on the arena at Noctheris's will.
+- Phase 2 has no transition out. Ro'ak dies when his HP reaches zero.
+
+---
+
+**Abilities — Phase 1.**
+
+- **Two-Hand Axe-Sweep** (a heavy single-target or 180° forward arc, depending on commitment — the axe is faster than its size suggests, in Ro'ak's hand).
+- **Staff-Bolt** (the staff fires a green-violet bolt at a single party member — mid-range, slow projectile, high damage if it lands; Ro'ak fires it between axe-swings, alternating melee and ranged so the party cannot bunch up).
+- **Centuries' Read** passive (Ro'ak has fought every weapon-style in the world over his life; his parry-rate against repeated attacks is so high that the party must constantly vary; **the four Black-Steel Wardens were practice for THIS rhythm — break repetition, force unpredictability, or he reads you**).
+- **Quiet Truth** (mid-fight, Ro'ak says something true and devastating to a specific party member; that member takes a **morale debuff** — minor damage reduction, minor speed reduction — until the encounter ends or another party member speaks to them in the camp scene after the fight; Van and Vallen both have lines that **counter** the Quiet Truth).
+- **One-Warlord** passive (Ro'ak summons no help in Phase 1. No constructs. No Black Patrol. No raised dead. **No host streaming through the doors of the High Hall.** This is between him and the party, and **the silence of the Hall is a deliberate choice on his part** — he wants this fight to be clean).
+- **The Voice** passive (Ro'ak's voice carries above the fight without effort; every Quiet Truth is audible to the entire party even at full battlefield-distance, which is part of how the line lands so hard).
+
+**Abilities — Phase 2.**
+
+- All Phase 1 abilities, **mechanically degraded on the axe** (Noctheris's strikes are wider, slower, more telegraphed), **and amplified on the staff** (now wielded by Noctheris herself, overhead, free of any hand).
+- **Staff-Storm** (the free-floating staff above Ro'ak fires green-violet bolts at random party members every three seconds; the bolts are faster than Phase 1's; the party member with the Quiet Truth debuff cannot see the warning indicator and **takes more damage** from the bolts. **The Quiet Truth from Phase 1 is mechanically punishing in Phase 2**).
+- **Noctheris-Pulse** (every twenty seconds, the floor of the High Hall pulses with a green-violet wave that **deals damage based on how far the party is standing from the throne** — the closer to the throne, the more damage; the design forces the party to fight at mid-range, which suits Ro'ak's axe-reach; this is the cruelty of the encounter).
+- **Cinder-Hearth Dim** passive (every minute, the visible Cinder-Hearth above the High Hall dims one shade; at the third dim, it dies entirely, the High Hall goes dark except for the green-violet of Ro'ak's eyes and the spinning staff, and Phase 2 enters its final third with all of Ro'ak's attack-speeds increased by 25%).
+- **Mother's Reach** (once in Phase 2, Noctheris reaches **directly through Ro'ak into the floor below him**, attempting to **pull Vallen down through the obsidian to the prison below**; the party has eight seconds to disrupt this by breaking any green-violet glyph the floor shows beneath Vallen's feet; failure does not end the game — Vallen is dragged to the prison floor of Region 5 alone and the party must descend immediately to rescue him; **a worse-but-survivable-state for Region 5 entry**).
+
+---
+
+**Weaknesses.**
+
+- **Phase 1: The axe-shoulder.** Ro'ak's two-handed orc axe is wielded right-handed; the **right shoulder** is the seam in the spiked plate where Durgan's work was rushed in the early days. **A clean strike to the right shoulder during a wide axe-swing exposes the joint** — and from the second exposure onward, his axe-arm slows perceptibly. **Vallen will hunt the right shoulder.** Phase 1 ends with a clean Vallen-strike to that shoulder if the party has set it up — and that wound carries into Phase 2 visibly.
+- **Phase 1: The staff is hers, not his.** Ro'ak fires Staff-Bolts between axe-swings, but **the staff is never quite balanced in his hand** — Noctheris's weapon, not his own. **A targeted disrupt of the staff** (Calypsa's counter-spell, or a Van-faith-disrupt) on the windup of a Staff-Bolt **cancels the bolt and stuns Ro'ak's left-hand grip for two seconds** — a parry-window the party can exploit with Vallen and Runlan.
+- **Phase 2: Noctheris does not fight like a swordsman.** Her strikes through Ro'ak's body are powerful but reckless. **A patient party can punish over-commits.** The staff overhead is the real threat in Phase 2 — Calypsa's full attention should be there. Van's faith-magic disrupts the staff's bolts (faster than Phase 1's disrupt; the staff is now hers fully, and Van's severance bites harder when there is no mortal in the wielder slot).
+- **The Right Words — At The Kneel.** A party with both Van AND the right letters (the Choir hymn-scrolls, the Spire-Witch confessions, the Berik note, the Patrol letters home, and **specifically — if the party has spared Durgan via the Mercy Path — the small written note Durgan pressed into Vallen's hand: "Tell my brother I am sorry"**) can, **at exactly fifty percent HP — at the kneel transition** — initiate a **Words-Of-Mortality** moment. Van speaks the truth Ro'ak has never been told: **Noctheris caused Ra'gor's death.** Vallen names the Greenwatch boy Ro'ak once was. **The transition becomes a different scene.** Ro'ak does not rise into Phase 2; instead his bloodshot eyes go briefly grey, the staff falls from the air and shatters on the obsidian, and **he dies of his own choosing** — Noctheris locked out of him for one breath while he weeps once for the father he loved and the mother who killed him. **A "kill him without finishing him" path.** Requires more setup than most parties will manage. **It is the achievement-tier path of the encounter.** Note: **per the character file, this is not redemption.** Ro'ak is still a monster. He still dies. But the boy gets one true second back at the end, and that matters to the game.
+
+---
+
+**Encounter notes.**
+
+- **The most important fight in the game.** Region 4 has been building to it. The Black-Steel Wardens taught the rhythm of varied combat. The Forge-Lord taught the honor. The Choir taught the patience and the counter-hymn. **Durgan taught the strength — and, if spared, gave the party the note that unlocks the mercy path.** Now the throne.
+- **The fight is not the climax.** Even when Ro'ak falls — even when his body drops to the obsidian and the eyes go finally, completely **black** (not grey, not green-violet — empty, the color of a thing no longer in the world) — **the climax has not yet happened.** Because as his body hits the floor, the floor itself begins to crack. The obsidian splits beneath him. The Cinder-Hearth, dead now, falls in pieces from the ceiling. **Noctheris pulls his body down through the cracked floor into the dark below.** The High Hall opens. The party can see down — a long, terrible drop into Mother's Hearth. **Region 5 begins now, without break.**
+- **Vallen will not say anything for the rest of the cutscene.** Calypsa will be the one to say *"We follow,"* and step to the edge of the crack. Runlan will check his quiver. Van will speak a quiet blessing for the dead half-orc on the floor below. **Then they go down.**
+
+---
+
+**Drops — Combat Kill.**
+
+- **Ro'ak's Axe** (a two-handed orc-forged great-axe — oversized for any normal warrior; Vallen can wield it only with both hands and only after Van blesses it to fit a smaller frame; carries the **Centuries' Read** passive as a wielder-bonus: party parry-rate increases by 15%; **the strongest weapon in the game until the Region 5 final drop**).
+- **The staff does not drop.** It shatters on the obsidian when Ro'ak dies — Noctheris will not let mortals carry her weapon. The shards are inert and worthless. Calypsa keeps one anyway, just to know.
+- **Ro'ak's Plate-Fragments** (spiked black-iron, skull-decorated, **too large for any party member to wear** — heavy-armor reagent only; refinable into **a top-tier shoulder-piece** for Vallen if a smith is available, **and a smith is available only if Durgan was spared**; otherwise the fragments are sequel-hook drop).
+- **The King's Robe** (the long dark robe Ro'ak wore over his armor — sized for him, oversized for everyone else, but **wearable as a cloak by Vallen** with a small "Warlord's Bearing" passive: a minor leadership-bonus to party morale in late Region 4 and Region 5; **Vallen will think hard before putting it on**).
+- **Ro'ak's Personal Effects** — a small inventory of unique items found on his body:
+  - **A bone-pendant** carved in the old orc style, **his father Ra'gor's**, kept on Ro'ak's neck through 250 years; Vallen recognizes the carving as an honor-token an orc warlord gave to his son at birth; the pendant is worn smooth from being touched, and **it is the only thing on Ro'ak's body that was carried with him out of childhood.** This pendant matters in Region 5.
+  - **A small folded scrap of cloth** that smells faintly of soap and woodsmoke — **a piece of Elena's village-dress**, kept in a pocket-of-the-armor for two and a half centuries; Ro'ak has never opened it; the cloth crumbles when Vallen unfolds it; nothing remains but the memory of the smell.
+  - **The obsidian shard** that breaks loose from the throne itself when Ro'ak falls (the shard is the **Vault-Key** for the locked door under Dreadvik, sequel hook).
+- **Ro'ak's Crown** (he was not wearing it; it sits on the dais behind the throne; a **black-iron circlet with bone-spikes**, in the old orc-king style; Vallen carries it but does not wear it; **it breaks silently the moment he sets it in his pack**; the pieces are a memento, not crafting material).
+
+**Drops — Mercy Path (Words-Of-Mortality at the kneel transition).**
+
+- All Combat Kill drops, **plus**:
+- **Ro'ak's Last Breath** — a single small vial that fills itself with the breath leaving his body when he dies; Calypsa identifies it as **a portion of a mortal soul not taken by Noctheris**, the last piece of Elena's boy — and **this vial, given to Noctheris directly in Region 5, becomes the most important consumable in the final fight.** A mercy-path party that pours the vial into the prison-floor at the moment Noctheris reaches for them will **lock Noctheris's possession of mortal souls for the remainder of the fight** — a major mechanical advantage. **The most-mercy run earns the strongest endgame swing.**
 
 ---
 
