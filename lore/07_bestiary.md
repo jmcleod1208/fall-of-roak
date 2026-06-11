@@ -912,6 +912,68 @@ She dies with that. **The Heart Tree, if not yet broken in combat, begins to die
 
 ---
 
+### 10. Stair-Stalker
+
+> Runlan: *"Below the path. Not above. Below."*
+
+**Appearance.** A long-limbed thing the size of a tall man, but folded — it moves on all fours, gripping cliff-rock with hooked black claws. Skin is pale and stretched tight over a wiry frame, mottled with the same green-violet veining as the corruption-touched. **No eyes.** Just a vertical slit-mouth running from chin to forehead, filled with small teeth, and twin sensory pits where eyes should be. Smaller than a Cliff-Howl (entry 2), faster, quieter.
+
+**Origin.** A human-stock corruption — pilgrims, lost climbers, deserters from the Black Patrol — who fell off the Cliff Stair over centuries and were taken at the bottom. Ro'ak does not raise them. Noctheris does, through the cracks in the prison-stone below. They grew into the cliff. They live on it now. **They have forgotten they were ever human.**
+
+**Behavior.** **Cling to the underside of the Cliff Stair.** The party walks the stair; the Stalker hangs beneath the step, gripping the rock face below the path. It tracks the party by vibration and breath-warmth (the sensory pits). When a party member crosses its step, it **lunges up and over**, attempting to grapple-pull the target off the edge.
+
+**Abilities.** **Cliff-Grapple** (a sudden upward grab — if it hits, the target is dragged off the stair into a held-state at the edge; another party member must free them in two seconds or the target falls and takes massive damage, possibly downed). **Slit-Bite** (close-range bite; light damage but inflicts a **Stalker-Mark** debuff that lets other Stalkers locate the marked party member through the cliff-rock for ten seconds). **Stone-Cling** passive (cannot be knocked off the cliff — the claws are locked in; the Stalker must be killed in place).
+
+**Weaknesses.** **Spotting first.** Runlan's ranger-sense can flag a Stalker hanging beneath the next step before the party crosses it. A ranged shot to the slit-mouth before the lunge **breaks the lunge entirely** and the Stalker falls. **Runlan kills more Stair-Stalkers than the rest of the party combined.**
+
+**Encounter notes.** The Cliff Stair is a rhythm of seven landings. Stalkers cling under three of them. The party will lose a member off the edge at least once on a first playthrough; the catch-and-pull-back mechanic is the lesson. **No player-fall is fatal if a second party member is alive on the step above.**
+
+**Drops.** Stalker-claw (light weapon-reagent — Calypsa can build a hooked dagger; Runlan can refine into broadhead arrowheads). Stretched-skin fragments (light-armor reagent, cold-resistant). Rarely: a **sensory-pit organ**, salvageable as a tracking-charm (single-use, marks the next unique enemy on the map).
+
+---
+
+### 11. Wind-Wraith
+
+> Calypsa: *"The cliff has a voice. Don't listen."*
+
+**Appearance.** Not really visible. **A column of cold air,** roughly man-shaped, distorted, only readable as a shimmer against the cliff-stone. In direct sunlight it casts no shadow but bends the light slightly. It speaks in the voice of the **wind through the spires** — a long sustained note that sometimes resolves into a word.
+
+**Origin.** Not a raised dead. Not a Noctheris-construct. **A natural Halig-creature gone wrong.** Wind-spirits exist in the cliffs of the Black Spires as they exist in any high-stone country — the Creator made them when he made the mountains. The Hollowing fractured the spirits the way it fractured everything else. These ones are bleeding from the cracks. They mean no harm. They cannot stop themselves.
+
+**Behavior.** Drifts the Cliff Stair in long slow arcs. When a party member crosses its path, **it pours into them** — invisibly, soundlessly, through the breath. The target hears the wind-voice in their own head for the rest of the encounter. The Wraith does not damage. It **misdirects.** A possessed party member walks one step too close to the cliff edge. Casts a spell on the wrong target. Lets a Stair-Stalker close one step further than they should. **The Wraith does not kill. It causes the player to make the mistake that kills.**
+
+**Abilities.** **Possess** (a no-damage debuff applied silently when the Wraith passes through a party member; the player gets a small visual tell — a wind-shimmer at the screen edge — but the AI of that party member starts acting slightly wrong). **Wind-Voice** passive (any party member possessed has their next combat command misroute by one party slot — Vallen attacks who Runlan was supposed to, Calypsa casts where Van was looking — for the next two actions). **Diffuse** (the Wraith cannot be hit by direct attacks; only AOE wind-disrupting effects work).
+
+**Weaknesses.** **Calypsa's mist.** The Cradle taught her how to push wind-spirits. A controlled mist-cone dissolves a Wind-Wraith in two seconds. **Van's voice** also works — the Creator's name spoken aloud at the Wraith disperses it (a faith-magic counter, but slower than Calypsa's mist). **Without Calypsa or Van, the Wraith cannot be killed at all** — it can only be waited out (it drifts on, the possession fades, the encounter ends if the party survives).
+
+**Encounter notes.** The Cliff Stair's most dangerous enemy is the one that does no damage. The party will recognize the pattern by the second Stair landing — *the wind sounds like a word; check your party AI; let Calypsa step forward.* **This is the first hint that Calypsa's mist is more than a Region 2 trick — it is going to matter at the end of the game.**
+
+**Drops.** None directly. A dispersed Wraith leaves a **wind-shard** on the stone — a tiny clear stone that hums against the wind. Calypsa can socket one into her staff for a small wind-spell augment.
+
+---
+
+### 12. Black Patrol
+
+> Vallen, after the first one falls: *"That was a man. That was just a man."*
+
+**Appearance.** Four armed humans in matched black-iron half-plate, hooded cloaks dyed the same deep black, longswords or crossbows. Faces visible under the hoods — gaunt, hollow-eyed, **alive.** Their eyes are not green-violet. They are tired, ordinary, human eyes. They were once mercenaries, deserters, broken men from across Mortal Realms who walked north because no other road would have them. Ro'ak took them in. He pays them in food and a roof.
+
+**Origin.** **The only purely human, uncorrupted enemy in Region 4.** Ro'ak keeps a small standing patrol of living humans on the Cliff Stair — not because the corrupted dead are insufficient, but because **he wants the road watched by something that thinks.** The Patrol numbers about thirty men in total across the Stair and the lower approaches; the party will encounter them in groups of four. They are loyal to Ro'ak the way a hungry man is loyal to the hand that feeds him. **They know what he is. They follow anyway.**
+
+**Behavior.** **Tactical, disciplined, alive.** Two swords forward, two crossbows behind. They use cover (the boulders and outcroppings of the Stair), they call to each other, they retreat if outmatched. **They can be reasoned with.** A Patrol that has lost two of four men will **break and run** rather than die. They can be talked down before combat by a successful Vallen-leadership or Van-faith check (the right words about Ro'ak's nature, the offer of safe passage south).
+
+**Abilities.** **Sword-and-Crossbow Discipline** (the only enemy in Region 4 that fights with proper military formation). **Cover-Use** passive (takes reduced ranged damage while behind boulders). **Call for Reinforcements** (if a Patrol fight runs longer than thirty seconds, they signal — and another Patrol comes from the next landing within sixty seconds; the party must end the first fight fast). **Morale** (if HP drops below half on three of the four men, the remaining ones disengage and retreat).
+
+**Weaknesses.** **They are men.** No special damage type required. No raising, no severing, no faith-magic. Steel kills them. **And they bleed.** The party will see it. Vallen will not enjoy this fight. Van will not enjoy this fight. **If the party talks them down instead of killing them, the Patrol disperses south — and a small late-game faction-favor accrues** (the Patrol's families in Crownhaven and the Free Towns will recognize Vallen's mercy if the party returns; minor quest-line implication for any sequel).
+
+**Encounter notes.** **The morally hardest fight in Region 4 before Durgan.** Up to this point every enemy has been corrupted, raised, constructed, or twisted. The Patrol is human. The Patrol is loyal of their own will. The Patrol is wrong, but the Patrol is choosing. **Vallen will speak about this in camp after.** The choice between killing and reasoning is real — and the game tracks it.
+
+**Encounter-tracking.** Any Patrol the party talks down adds to a **"Mercy Count"** that displays in the Region 4 region-summary at the end. The number does nothing mechanical in this game. It is there because it matters.
+
+**Drops.** Standard mortal gear — black-iron half-plate (a usable armor set for Vallen, the only heavy armor in Region 4 that fits him without dwarf-reforging), longswords, crossbows, crossbow bolts (Runlan-usable), water-skins, dried rations, **a few letters home in their pockets.** Letters are flavor-readable in the inventory screen. They are not happy letters. The party will keep them anyway.
+
+---
+
 ## Region 5 — Mother's Hearth (Prison of Noctheris)
 
 *(Pending. Final region. The descent into Noctheris's prison-chamber after Ro'ak falls in his High Hall. Vertical journey through Hollowing-broken depths. Capstone: Noctheris herself, in several phases.)*
