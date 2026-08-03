@@ -75,7 +75,7 @@ What in-world chroniclers will call this era is not yet decided — they may not
 
 - **When:** Pre-history. Beyond recorded time.
 - **What happened:** The five Old Gods fell from their sacred purposes — not all at once, but **one by one** across an unknowable span of time. Some fell before mortals were even made; others fell only after meeting them, corrupted by what they were supposed to keep in check. Each fell to their own desire: Noctheris to her shame, Visstheri to greed, Aqueloth to hunger, Drakhalion to fire, Morhaem to the worship he was meant to channel toward the Creator.
-- **The Creator's response:** A mix of punishment and withdrawal. Some Old Gods were openly punished — Visstheri was condemned to walk alone in the dark places of cities, unseen and unsated. Others were not struck down so much as **left to fall further**, the Creator simply withdrawing from them and ceasing to acknowledge them.
+- **The Creator's response:** A mix of punishment and withdrawal. Some Old Gods were openly punished — Visstheri was condemned to walk alone in the dark places of cities, unseen and unsated. Others were not struck down so much as **left to fall further**, the Creator simply withdrawing from them and ceasing to acknowledge them. **Noctheris was of the second kind. Rather than face what she had become, she carved a chamber deep beneath the world, scribed her own binding-runes into its walls, and chained herself by both wrists to its floor — her self-imposed prison. She has never left it.**
 - **Key figures:** The Creator. The five Old Gods (Noctheris, Visstheri, Aqueloth, Drakhalion, Morhaem).
 - **How it's remembered:** **The Turning is in the songs and ghost stories.** Children of every culture hear of it before they hear of any king. The names of the Old Gods come down through lullabies, hearth-tales, drinking songs, and the warnings mothers give before bed. Most who sing them think they are myths. Some know better.
 - **Consequences still felt today:** Every danger in the present world ultimately traces back to the Turning. The world's appointed guardians became its hidden predators — and mortal kind has been alone with them ever since. Ro'ak, Noctheris's vessel, is the most active expression of the Turning's long shadow.
@@ -85,7 +85,7 @@ What in-world chroniclers will call this era is not yet decided — they may not
 ### The Hollowing
 
 - **When:** ~1,000 BC.
-- **What happened:** The dwarves of Eadenreach **dug too deep**. In their relentless mining of the mountains around Dreadvik, they breached something they should never have touched: **a crack in the prison of Noctheris.** They felt her stirring beneath them — felt something *looking back through the dark* — and they panicked.
+- **What happened:** The dwarves of Eadenreach **dug too deep**. In their relentless mining of the mountains around Dreadvik, they breached the deep stone surrounding **the Pit of Noctheris — her self-imposed prison.** They did not reach her chamber itself; her binding-runes held. But they were close enough that they felt her stirring beneath them — felt something *looking back through the dark* — and they panicked.
 
   They did not warn the other peoples of Halig. They did not seal what they had broken. They simply **packed and left, quietly and in haste**, abandoning forge-cities, tools, machines, and treasures too heavy to carry. Within a single generation, the entire dwarven population of Eadenreach was gone north — silent ever since.
 

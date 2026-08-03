@@ -264,7 +264,7 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
   - The cliff was a **dwarven hold** in the deep past — a remote eastern outpost of the same people who would later, far to the west under the mountains, crack Noctheris's prison in 1000 BC. The dwarves who lived here abandoned it long before the Hollowing, for reasons no record of any race remembers. **What they left behind, Noctheris found.** She has lurked in the cracked places beneath the cliff ever since — long before Ro'ak was born.
   - Centuries later the Dreadvik chieftains — Scandinavian-flavor fjord-lords — built their longhalls and feast-halls into the cliff's upper terraces, never knowing what slept below. They held it for generations.
   - **Ro'ak emerged from Noctheris's lair beneath the cliff in 499 AC** and took the surface holding for his own. He did not inherit it from his father — Ra'gor was a clan chieftain of the Eastern Wilds, far inland, and never saw this fjord. Ro'ak took the cliff because **his mother was already beneath it**, and the chieftains who held the surface could not stand against what she had spent 250 years making in him.
-  - **For two centuries before he emerged, and for the year since, Ro'ak has been building.** The Cinderforge gate at the base. The inner halls deepening into the cliff and reconnecting to the old dwarven works. The spires climbing higher. **His High Hall at the summit, set directly above her prison-chamber.** **The Black Spires are his masterwork. Mother's Hearth, beneath them, is hers.**
+  - **For two centuries before he emerged, and for the year since, Ro'ak has been building.** The Cinderforge gate at the base. The inner halls deepening into the cliff and reconnecting to the old dwarven works. The spires climbing higher. **His throne hall at the summit — Mother's Hearth, the room named for her — set directly above the Pit of Noctheris deep beneath the cliff.** **The Black Spires are his masterwork. The Pit, buried far below, is hers.**
 - **Geography:**
   - The cliff faces northeast onto **the Mother's Fjord** (named after Noctheris by Ro'ak; the locals had a different name once).
   - The fjord opens directly onto **the Eastern Ocean** — the sea no one has crossed.
@@ -273,10 +273,10 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
   - **The Cinderforge Gate** — Durgan's workshop and fighting ground; the first major obstacle.
   - **The Cliff Stair** — a thousand-step winding stair carved up the cliff face, half open to the sea winds. Walking it is a chapter of the game.
   - **The Lower Halls** — barracks, mess, training yards, the host's day-to-day life.
-  - **Ro'ak's High Hall** (see below) — the throne hall at the cliff-top, where Ro'ak waits.
+  - **Mother's Hearth** (see below) — the throne hall at the cliff-top, where Ro'ak waits.
   - **The Spires** — six pointed towers rising from the cliff-top, used for signaling, scrying, and Mother rituals.
 - **Notable NPCs here:**
-  - **Ro'ak**, in his High Hall.
+  - **Ro'ak**, in Mother's Hearth.
   - **Durgan Cinderforge**, at the Gate.
   - Mothers, lieutenants, thralls.
 - **Hooks / Why the player goes here:**
@@ -287,7 +287,7 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
 
 ---
 
-### Ro'ak's High Hall (Throne Hall of the Black Spires)
+### Mother's Hearth (Throne Hall of the Black Spires)
 - **Type:** Throne hall at the summit of the Black Spires.
 - **Region:** Region 4 capstone. The peak of the cliff-fortress.
 - **Controlled by:** **Ro'ak.** Through him, Noctheris.
@@ -296,11 +296,11 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
 - **Visual signature:** **Ro'ak on his black-iron throne, axe across his knees, Noctheris's staff planted beside him, the open eastern sea stretching out behind him under a stormy sky.** The throne is built so he can look east at all times. He has been looking east for two centuries. He is waiting for her to come up from the deep.
 - **History:**
   - Built by Ro'ak in the first century of his rule, over the old Dreadvik chieftains' feast-hall. The new floor is laid directly over the old, and the old floor is laid directly over the cracks that lead down to her.
-  - **The Cinder-Hearth** — a great circular stone fire-pit in the center of the hall — burns with **green-violet flame** that never goes out. **It is not fire. It is presence.** It is an echo of the true Hearth far below. Noctheris reaches up through it; Ro'ak speaks to her down through it.
+  - **The Cinder-Hearth** — a great circular stone fire-pit in the center of the hall — burns with **green-violet flame** that never goes out. **It is not fire. It is presence.** It is a channel to Noctheris herself, chained in the Pit far below. Noctheris reaches up through it; Ro'ak speaks to her down through it.
   - **This is where Ro'ak speaks to her aloud.** The Mothers attend. The flames respond.
 - **Points of interest:**
   - **Ro'ak's Throne** — black iron, simple, brutal. Faces east. Set on a low dais of natural cliff-stone.
-  - **The Cinder-Hearth** — circular fire-pit at the hall's center. Green-violet flame. The echo of Noctheris's true hearth below.
+  - **The Cinder-Hearth** — circular fire-pit at the hall's center. Green-violet flame. A channel to Noctheris in her Pit far below.
   - **The Eastern Balcony** — open stone shelf overhanging the fjord. No rail. A long fall.
   - **The Mother's Veil** — a curtain of dark gauze hanging behind the throne. Behind it is a **shrine to Noctheris** in her partial form — a statue with the constant violet eyes.
   - **The Iron Door** — west wall. The only entrance. Three of Ro'ak's strongest guards stand inside it at all times.
@@ -320,33 +320,27 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
 
 ## Part 5 — Beneath the Spires
 
-### Mother's Hearth (Prison of Noctheris)
-- **Type:** The prison chamber of Noctheris. **Final battle of the game.**
-- **Region:** Region 5. Deep beneath the Black Spires, in the dark below the dwarven works, at the heart of the Hollowing.
-- **Controlled by:** **Noctheris.** The prison is hers in the way a cell is the prisoner's.
-- **Population / Inhabitants:** Noctheris. The cracked chain. The broken iron throne. Her prison-warders, twisted across three thousand years into something that no longer remembers what it was meant to guard. Sleeping dwarves preserved in the dark of the deepest halls. And, briefly, the body of Ro'ak — falling.
-- **Vibe / Atmosphere:** **A vast chamber of black stone, walls split by violet eldritch fissures** that pulse like a heart. The ceiling is lost in the dark above. A throne of broken iron sits at the chamber's heart, a chain trailing from its arm, one shackle hanging open. The air is wrong — heavier than air should be, slow, tasting of iron and old smoke. Sound carries strangely. The party will hear their own footsteps a heartbeat after they take them.
-- **Visual signature:** **The same chamber the party has glimpsed in dreams and visions throughout the whole game** — Ro'ak's dreams, the Mothers' rituals, cult shrines on the road, their own sleep as Noctheris reached for them. They have seen this place a hundred times before they ever stand in it. The walls are familiar. The throne is familiar. **And finally, looking up from the throne, Noctheris herself is real.**
+### The Pit of Noctheris
+- **Type:** Noctheris's self-imposed prison. **Final battle of the game.**
+- **Region:** Region 5. Deep beneath Mother's Hearth. The obsidian floor Ro'ak sat over for two centuries is the ceiling of this room.
+- **Controlled by:** **Noctheris.** She built the prison herself. It is hers because she made it.
+- **Population / Inhabitants:** Noctheris. Nothing else.
+- **Vibe / Atmosphere:** **A circular chamber of black stone. Runes scribed into every inch of the curved wall, floor to ceiling, glowing faintly violet in the dark.** At the center of the floor, **Noctheris — chained by both wrists to the stone beneath her.** The chains run down into the floor and do not come out the other side. The air is heavy, iron-tasting, still. Sound carries strangely. The party will hear their own footsteps a heartbeat after they take them.
+- **Visual signature:** **Noctheris at the center of the circle, chained to the floor she carved for herself.** The runes on the wall pulse faintly violet in her presence. There is no throne. There are no other prisoners. There is only her, the chain, the runes, and the party.
 - **History:**
-  - **Carved before recorded history.** The Five were sealed here at the dawn of the world by the Creator. They have been here ever since.
-  - **The dwarves cracked the prison in 1000 BC** — the **Hollowing** — and the crack has been widening for three thousand years. They fled north and vanished. Except Durgan. Durgan stayed.
-  - **For 250 years before Ro'ak emerged, Noctheris shaped a child from the offering of a Mother given to her here, in this chamber, in this dark.** Ro'ak was made in Mother's Hearth.
-  - Now the party is in it.
+  - **She trapped herself here.** She fell from her sacred purpose — to her shame — and rather than face the Creator or the other Old Gods, she carved this room from the deep stone, scribed the binding-runes into its walls with her own hand, chained herself by both wrists to the floor at the center, and left the way in sealed behind her. She has never left this room since.
+  - Every Mother she took, every child she shaped, every corruption she poured into Ro'ak — **she did all of it from this pit.** She built Ro'ak from this floor over 250 years without ever leaving the chain.
+  - The dwarves cracked the world above her in 1000 BC — the **Hollowing** — but the crack never reached her room. Her runes held. She has been alone here for far longer than that.
 - **Points of interest:**
-  - **The Broken Throne** — at the chamber's heart. The chain trailing from one arm. One shackle hanging open. The other still locked around the throne's leg.
-  - **The Cracks** — violet fissures running floor to ceiling along the walls. They pulse. They are wider at the top than at the bottom.
-  - **The Fall** — directly above the throne, the ceiling opens to a long dark shaft that climbs up through the Hollowing-broken stone, up through the lower halls of the Spires, up to the cracked floor of Ro'ak's High Hall. This is the way the party came in. This is the way they leave, if they leave.
-  - **The Sleeping Halls** — the side galleries off the chamber, where dwarves who did not flee with their kin lie preserved in postures of work and worship. They do not wake. They are not exactly dead.
-  - **The Watchers** — the cracks are wider at the top because **four other prisoners are pressed close to them, listening.** Visstheri. Aqueloth. Drakhalion. Morhaem. The party may glimpse a violet eye, a scaled cheek, a coil of hair behind the cracks, between phases of the fight. **The Watchers do not act. They watch. They are taking notes.**
+  - **The Rune-Wall** — three hundred and sixty degrees of scribed runes on the curved wall, floor to ceiling. The language of her binding. She wrote every one herself. They glow faintly violet in the presence of the god they hold.
+  - **The Chain-Point** — the anchor at the pit's center where both chains meet the stone. Iron. Simple. Immovable.
+  - **The Fall** — directly above the pit, the shaft up through Hollowing-broken stone to the cracked floor of Mother's Hearth. **The party climbs down carefully, hand over hand.** It is also the way they leave, when it is done.
 - **Notable NPCs here:**
-  - **Noctheris.** In her partial freedom. Half-out of the throne. Reaching.
-  - **The Watchers**, behind the cracks. Silent. Inevitable.
+  - **Noctheris.** Chained. Waiting.
 - **Hooks / Why the player goes here:**
-  - **The final battle of the game.** Noctheris herself, in several phases. **The party fights her in her own prison.**
+  - **The final battle of the game.** When Ro'ak dies in Mother's Hearth above, the floor cracks. The party climbs down the shaft. The fight begins the moment their feet touch stone.
 - **Secrets:**
-  - The shackle on her left wrist has been open since the Hollowing. The shackle on her right is still closed. **The chain on the throne still holds her — barely.** Breaking the chain during the fight is the last phase. The chain is what the Creator put on her at the dawn of the world. It is harder than any weapon, any spell, any faith.
-  - **The Watchers are taking notes.** When the fight ends, they will know how to break their own bonds. *(Sequel hook. The four other Old Gods.)*
-  - There is one detail in the chamber the party may not notice on the first pass: **a small figure seated cross-legged in the deepest shadow of the sleeping halls**, very still, very old, watching the fight. *Durgan's brother — the one other dwarf who stayed. He has been here for three thousand years. (Sequel hook. Or red herring. Author's choice when `09_plot.md` is written.)*
+  - **She could break the runes herself. She never has.** The chain is not a prison the Creator gave her. It is a prison she gave herself. She chose to stay because leaving means facing what she did. **This is why she has to die** — a Noctheris allowed to walk out will simply walk out again, on her own terms, on her own timing, forever. Only killing her ends her.
 
 ---
 
@@ -362,5 +356,5 @@ The Scandinavian-flavor far east. Coastal fjords, dark pine forests, longhalls, 
 | 6 | **Elenathir** | Old Forest interior | Closed; glimpsed only |
 | 7 | **Crownhaven** | Demesne | Fallen capital, still burning |
 | 8 | **The Demesne Moors** | Demesne | Mist-cloaked crossing; Vorthak |
-| 9 | **The Black Spires** | Dreadvik | Ro'ak's cliff-fortress; Durgan at the gate; **Ro'ak's High Hall** at the summit (Region 4 capstone) |
-| 10 | **Mother's Hearth** | Beneath the Spires | Prison of Noctheris. **Final battle of the game** (Region 5) |
+| 9 | **The Black Spires** | Dreadvik | Ro'ak's cliff-fortress; Durgan at the gate; **Mother's Hearth** throne hall at the summit (Region 4 capstone) |
+| 10 | **The Pit of Noctheris** | Beneath the Spires | Noctheris's self-imposed prison. **Final battle of the game** (Region 5) |

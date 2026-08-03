@@ -79,7 +79,7 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | `02_history.md` | Done | The Making → the Hollowing → the Founding → present (Year 500 AC). |
 | `03_factions.md` | Done | 8 factions: House Valerian (fallen), the Crown remnants, Elenathir, Ro'ak's Host, the Mothers, etc. |
 | `04_characters.md` | Done | 4 heroes, Ro'ak, Noctheris, the four lieutenants, Aetherion. |
-| `05_locations.md` | Done | 10 places + map summary table. Includes Captain Aerinith at Greenwatch and Ser Eadric at the Cathedral chapel east of Crownhaven. Mother's Hearth is now the prison of Noctheris (Region 5 final battle); Ro'ak's High Hall is the throne hall at the Spires summit (Region 4 capstone). |
+| `05_locations.md` | Done | 10 places + map summary table. Includes Captain Aerinith at Greenwatch and Ser Eadric at the Cathedral chapel east of Crownhaven. **Mother's Hearth** is Ro'ak's throne hall at the Spires summit (Region 4 capstone). **The Pit of Noctheris** is her self-imposed prison-chamber directly beneath, reached through the shaft that opens when Ro'ak falls (Region 5 final battle). |
 | `06_systems.md` | Done | Magic, faith, corruption, vessels, languages. Vessel-distinction lock is here. |
 | `07_bestiary.md` | Regions 1–4 done. Region 5 pending. | Regions 1–3 (40 creatures) plus Region 4 (18 creatures, incl. Durgan at the Cinderforge Gate and Ro'ak's capstone), all four lieutenant fights + one Creator-native dragon (Aetherion) + one Noctheris-made dragon (Vorthak). |
 | `08_items_artifacts.md` | **STUB — template only.** | To consolidate scattered drops: Sunstrike Longsword, Lord Commander's Sigil, Moonwhisper Long/Short Blades, Moonwhisper Circlet, Whisper-Trophy, Aetherion's throat-scale, Stone Blessings, Crown Road Wraith's letter for Runlan, soul-glass shards, black-flame ember, sealed letter to Aerinith, and others. |
@@ -95,16 +95,16 @@ The user has established a strict numbered Q&A format. Follow it exactly.
 | 1 | The Greenfields | 13 (incl. Ser Kael capstone) | Done |
 | 2 | The Old Forest | 14 (incl. Aetherion #13 + Seraphiel #14) | Done |
 | 3 | The Demesne Moors | 13 (incl. Vorthak #13 multi-encounter) | Done |
-| 4 | The Black Spires & Mother's Fjord | 18 creatures, incl. Durgan at the Cinderforge Gate (mid-region) and Ro'ak at his High Hall (capstone). | Done |
-| 5 | Mother's Hearth (Prison of Noctheris) | Descent through Hollowing-broken depths beneath the Spires. Noctheris herself as capstone. Pending. | Next |
+| 4 | The Black Spires & Mother's Fjord | 18 creatures, incl. Durgan at the Cinderforge Gate (mid-region) and Ro'ak in Mother's Hearth (capstone). | Done |
+| 5 | The Pit of Noctheris | The party climbs down the shaft opened when Ro'ak falls. One boss room. Noctheris herself as capstone — single phase, ability escalation across 5 HP tiers. | In progress |
 
 ### Endgame structure (locked)
 
-- **Region 4 capstone = Ro'ak**, in his High Hall at the summit of the Black Spires.
-- **When Ro'ak dies**, the Cinder-Hearth in his hall dies, the floor cracks open, and Noctheris pulls his body down into her prison-chamber.
-- **Region 5 begins** with the descent into that chamber — a vertical journey through Hollowing-broken dwarven works and sleeping halls.
-- **Region 5 capstone = Noctheris**, in Mother's Hearth, in her own prison.
-- The four other Old Gods (Visstheri, Aqueloth, Drakhalion, Morhaem) watch the Noctheris fight from behind the cracks. They do not act. They take notes. Sequel hook.
+- **Region 4 capstone = Ro'ak**, in **Mother's Hearth** at the summit of the Black Spires.
+- **When Ro'ak dies**, the Cinder-Hearth in the hall dies, the floor cracks open, and Noctheris pulls his body down through the shaft.
+- **Region 5 begins** with the party climbing carefully down that shaft, hand over hand, into **the Pit of Noctheris** — her self-imposed prison. A circular chamber of black stone with faintly violet-glowing runes scribed floor to ceiling on the curved walls. Noctheris chained by both wrists to the floor at the center. Chains and runes of her own making.
+- **Region 5 capstone = Noctheris**, in the Pit. **One phase.** Ability escalation across 5 HP tiers (100 / 80 / 60 / 40 / 20). All heroes present. She dies for good. No mercy path.
+- **On victory:** no cutscene. The party leaves the mountains. The region gradually restores itself. Ro'ak's army withers and dies now that he and Noctheris are both gone.
 
 ---
 

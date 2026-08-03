@@ -482,7 +482,7 @@ This is, in part, why he can never be saved. The corruption is not just politica
 
 - **Distant antagonist for most of the game.** The party hears of him constantly — from refugees, from elven scouts, from corrupted lieutenants — but does not see him until late.
 - **One possible early glimpse:** Mid-game, perhaps in the Demesne, the party may witness him from a distance — a figure on a ridge, the host parting around him, the staff glowing in the mist. They do not meet. He does not see them. **But the player does, and remembers.**
-- **The final confrontation:** **Ro'ak's High Hall**, at the summit of the Black Spires — set directly above **Mother's Hearth**, Noctheris's cracked prison-chamber below. He is the last gate. **And he is not the final boss** — Noctheris is. Ro'ak is the door. Killing him is necessary, but killing him does not save the world. **When he falls, the Cinder-Hearth dies, the floor opens, and Noctheris pulls his body down into her prison.** The party can follow, or run. The Wanting Mother still waits beneath.
+- **The final confrontation:** **Mother's Hearth**, the throne hall at the summit of the Black Spires — named for the god he serves, set directly above **the Pit of Noctheris** deep beneath the cliff. He is the last gate. **And he is not the final boss** — Noctheris is. Ro'ak is the door. Killing him is necessary, but killing him does not save the world. **When he falls, the Cinder-Hearth dies, the floor opens, and Noctheris pulls his body down into the Pit.** The party can follow, or run. The Wanting Mother still waits beneath.
 
 ---
 
@@ -503,7 +503,7 @@ And Elena's monstrousness throws Noctheris's role into sharper relief too. **Noc
 
 > *"Come closer, child. You have always been mine."*
 
-Noctheris is one of the **Five Old Gods**, sealed beneath the world since before recorded history. She has not walked Halig in her own body in millennia. She speaks through Ro'ak. She works through the Mothers. She is **never seen whole** — until the very end.
+Noctheris is one of the **Five Old Gods**. Long before recorded history, ashamed of what she had become, she carved a chamber deep beneath the world, scribed her own binding-runes into its walls, and chained herself to its floor. **She has been in her self-imposed prison ever since.** She has not walked Halig in her own body in millennia. She speaks through Ro'ak. She works through the Mothers. She is **never seen whole** — until the very end.
 
 But she has a **canonical form**, and the player will glimpse it in fragments throughout the game: in cult statuary, in stained glass at fallen Crownhaven, in Ro'ak's visions, in the dreams of the Mothers, in the cracked-prison flashbacks. The fragmentation is the horror.
 
@@ -515,8 +515,8 @@ But she has a **canonical form**, and the player will glimpse it in fragments th
 - **Two violet-green eyes** — burning steady through every veil and every shifting face. **The eyes are the constant.** No matter what she is wearing, the eyes are hers. Once the player learns the eyes, they will recognize her in every shrine, every banner, every statue, every dream.
 - **Many slender pale arms** emerging from her shroud at impossible angles — small hands, women's hands, dozens of them. These are **the hands of every child ever given to her** — the children of the Mothers, reaching out from inside her. They reach *outward*, toward the viewer. *Come to me.*
 - **A faint purple-green miasma** curls around her bare feet — the same miasma that surrounds Ro'ak, that pours from his staff. It is her presence in the world.
-- **A single broken iron chain** trails from one wrist into shadow. The chain that once held her. The chain the dwarves cracked. The chain she has never fully escaped.
-- **Backdrop:** when she is glimpsed in vision, she is always in the same place — a vast chamber of cracked black stone, walls split with violet eldritch fissures. **Her ancient prison.** She has not left it. She has only reached out.
+- **Two iron chains** trail from her wrists into the dark, running down to the stone she chained herself to. **These are chains of her own making.** She holds the key. She has never used it.
+- **Backdrop:** when she is glimpsed in vision, she is always in the same place — **a circular chamber of black stone, curved walls scribed floor to ceiling with faintly violet-glowing runes.** Her self-imposed prison. She has not left it. She has only reached out.
 
 ### How the player encounters her
 

@@ -156,9 +156,10 @@ This is **inherent to their nature**, not an arbitrary rule. The Old Gods were m
 ---
 
 ### Noctheris, the Wanting Mother
-*Buried beneath the world.*
+*Chained beneath the world in a prison of her own making.*
 - **Original purpose:** To ensure motherhood remained strong, to keep the peoples of the world fertile and continuing.
 - **Corruption:** Ashamed and consumed by her inability to bear children of her own, she now claims them — taking the children of others as her own. She is the architect behind Ro'ak, who has been her vessel since before he was born.
+- **The self-imposed prison:** Long before recorded history, ashamed of what she had become, she carved a circular chamber deep beneath the world, scribed her own binding-runes into its walls, and chained herself by both wrists to its floor. **She could break the runes herself. She has never chosen to.** She reaches out from that chamber — through Ro'ak, through the Mothers, through dreams — but she has never walked out.
 - **Method:** Whispers and possession. She works through chosen vessels and through her cult.
 - **Cult: "The Mothers."** A cult of women who give up their own children to her in exchange for power. They believe she is a goddess of true motherhood; in truth, she devours the bond she was made to protect.
 - **Story relevance:** **Primary cosmic antagonist of this game.** Hidden behind Ro'ak. Revealed late.
